@@ -1,0 +1,634 @@
+{
+  "source_base_path": "C:/Users/30095774/Desktop/S4UDashboard/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.AlertService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.AlertService.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.AlertService",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.App.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.App.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.App",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Controls.EnumBinding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Controls.EnumBinding.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Controls.EnumBinding",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Controls.HKMenu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Controls.HKMenu.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Controls.HKMenu",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Controls.ThresholdColourizerMultiConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Controls.ThresholdColourizerMultiConverter.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Controls.ThresholdColourizerMultiConverter",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Controls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Controls.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Controls",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.AnnotatedDataModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.AnnotatedDataModel.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.AnnotatedDataModel",
+      "Summary": "<p sourcefile=\"api/S4UDashboard.Model.AnnotatedDataModel.yml\" sourcestartlinenumber=\"1\">Represents the components of a dataset which may be updated by the program.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.CalculatedDataModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.CalculatedDataModel.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.CalculatedDataModel",
+      "Summary": "<p sourcefile=\"api/S4UDashboard.Model.CalculatedDataModel.yml\" sourcestartlinenumber=\"1\">Represents the components of a dataset which can be derived from the sensor data.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.DataProcessing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.DataProcessing.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.DataProcessing",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.DatasetModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.DatasetModel.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.DatasetModel",
+      "Summary": "<p sourcefile=\"api/S4UDashboard.Model.DatasetModel.yml\" sourcestartlinenumber=\"1\">Represents a dataset.\n<p>\nOnly <code>AnnotatedData</code> and <code>SensorData</code> should be serialised.\n</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.FBMProfile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.FBMProfile.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.FBMProfile",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.FileLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.FileLocation.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.FileLocation",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.GeneratorProfile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.GeneratorProfile.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.GeneratorProfile",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.ILocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.ILocation.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.ILocation",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.Immutable2DArray-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.Immutable2DArray-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.Immutable2DArray<T>",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.SampleGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.SampleGenerator.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.SampleGenerator",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.SensorDataModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.SensorDataModel.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.SensorDataModel",
+      "Summary": "<p sourcefile=\"api/S4UDashboard.Model.SensorDataModel.yml\" sourcestartlinenumber=\"1\">Represents the components of a dataset which should never be updated by the program.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.SensorProfile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.SensorProfile.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.SensorProfile",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.Serialization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.Serialization.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.Serialization",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.Serializers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.Serializers.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.Serializers",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.SortMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.SortMode.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.SortMode",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.SortedObservableView-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.SortedObservableView-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.SortedObservableView<T>",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.UnnamedLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.UnnamedLocation.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model.UnnamedLocation",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Model.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Model.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Model",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Reactive.ComputedCell-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Reactive.ComputedCell-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Reactive.ComputedCell<T>",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Reactive.EffectManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Reactive.EffectManager.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Reactive.EffectManager",
+      "Summary": "<p sourcefile=\"api/S4UDashboard.Reactive.EffectManager.yml\" sourcestartlinenumber=\"1\">Manages an effects based reactivity system.\n<p>\nThis interface is heavily <i>inspired</i> by Vue 3's fundamental reactivity primitive,\nwhich tracks access to reactive dependencies and executes subscribed effects when that dependency\nis triggered (usually when the property is mutated).\n</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Reactive.ReactiveCell-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Reactive.ReactiveCell-1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Reactive.ReactiveCell<T>",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Reactive.ReactiveCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Reactive.ReactiveCommand.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Reactive.ReactiveCommand",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Reactive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Reactive.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Reactive",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.ServiceProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.ServiceProvider.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.ServiceProvider",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.ViewModels.FileTabViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.ViewModels.FileTabViewModel.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.ViewModels.FileTabViewModel",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.ViewModels.MainViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.ViewModels.MainViewModel.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.ViewModels.MainViewModel",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.ViewModels.ViewModelBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.ViewModels.ViewModelBase.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.ViewModels.ViewModelBase",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.ViewModels.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.ViewModels",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Views.FileTabView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Views.FileTabView.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Views.FileTabView",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Views.MainView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Views.MainView.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Views.MainView",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Views.MainWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Views.MainWindow.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Views.MainWindow",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.Views.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.Views.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard.Views",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/S4UDashboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/S4UDashboard.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "S4UDashboard",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "icon.svg",
+      "output": {
+        "resource": {
+          "relative_path": "icon.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html"
+        },
+        ".json": {
+          "relative_path": "manual/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

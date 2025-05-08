@@ -1,0 +1,2732 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: S4UDashboard
+  name: S4UDashboard
+  href: api/S4UDashboard.html
+  commentId: N:S4UDashboard
+  fullName: S4UDashboard
+  nameWithType: S4UDashboard
+- uid: S4UDashboard.AlertService
+  name: AlertService
+  href: api/S4UDashboard.AlertService.html
+  commentId: T:S4UDashboard.AlertService
+  fullName: S4UDashboard.AlertService
+  nameWithType: AlertService
+- uid: S4UDashboard.AlertService.Alert(System.String,System.String,System.String)
+  name: Alert(string?, string?, string?)
+  href: api/S4UDashboard.AlertService.html#S4UDashboard_AlertService_Alert_System_String_System_String_System_String_
+  commentId: M:S4UDashboard.AlertService.Alert(System.String,System.String,System.String)
+  name.vb: Alert(String, String, String)
+  fullName: S4UDashboard.AlertService.Alert(string?, string?, string?)
+  fullName.vb: S4UDashboard.AlertService.Alert(String, String, String)
+  nameWithType: AlertService.Alert(string?, string?, string?)
+  nameWithType.vb: AlertService.Alert(String, String, String)
+- uid: S4UDashboard.AlertService.Alert*
+  name: Alert
+  href: api/S4UDashboard.AlertService.html#S4UDashboard_AlertService_Alert_
+  commentId: Overload:S4UDashboard.AlertService.Alert
+  isSpec: "True"
+  fullName: S4UDashboard.AlertService.Alert
+  nameWithType: AlertService.Alert
+- uid: S4UDashboard.AlertService.PopupWithCancel(System.String,System.String,System.String,System.Collections.Generic.IEnumerable{System.String})
+  name: PopupWithCancel(string?, string?, string?, IEnumerable<string>)
+  href: api/S4UDashboard.AlertService.html#S4UDashboard_AlertService_PopupWithCancel_System_String_System_String_System_String_System_Collections_Generic_IEnumerable_System_String__
+  commentId: M:S4UDashboard.AlertService.PopupWithCancel(System.String,System.String,System.String,System.Collections.Generic.IEnumerable{System.String})
+  name.vb: PopupWithCancel(String, String, String, IEnumerable(Of String))
+  fullName: S4UDashboard.AlertService.PopupWithCancel(string?, string?, string?, System.Collections.Generic.IEnumerable<string>)
+  fullName.vb: S4UDashboard.AlertService.PopupWithCancel(String, String, String, System.Collections.Generic.IEnumerable(Of String))
+  nameWithType: AlertService.PopupWithCancel(string?, string?, string?, IEnumerable<string>)
+  nameWithType.vb: AlertService.PopupWithCancel(String, String, String, IEnumerable(Of String))
+- uid: S4UDashboard.AlertService.PopupWithCancel*
+  name: PopupWithCancel
+  href: api/S4UDashboard.AlertService.html#S4UDashboard_AlertService_PopupWithCancel_
+  commentId: Overload:S4UDashboard.AlertService.PopupWithCancel
+  isSpec: "True"
+  fullName: S4UDashboard.AlertService.PopupWithCancel
+  nameWithType: AlertService.PopupWithCancel
+- uid: S4UDashboard.App
+  name: App
+  href: api/S4UDashboard.App.html
+  commentId: T:S4UDashboard.App
+  fullName: S4UDashboard.App
+  nameWithType: App
+- uid: S4UDashboard.App.Initialize
+  name: Initialize()
+  href: api/S4UDashboard.App.html#S4UDashboard_App_Initialize
+  commentId: M:S4UDashboard.App.Initialize
+  fullName: S4UDashboard.App.Initialize()
+  nameWithType: App.Initialize()
+- uid: S4UDashboard.App.Initialize*
+  name: Initialize
+  href: api/S4UDashboard.App.html#S4UDashboard_App_Initialize_
+  commentId: Overload:S4UDashboard.App.Initialize
+  isSpec: "True"
+  fullName: S4UDashboard.App.Initialize
+  nameWithType: App.Initialize
+- uid: S4UDashboard.App.OnFrameworkInitializationCompleted
+  name: OnFrameworkInitializationCompleted()
+  href: api/S4UDashboard.App.html#S4UDashboard_App_OnFrameworkInitializationCompleted
+  commentId: M:S4UDashboard.App.OnFrameworkInitializationCompleted
+  fullName: S4UDashboard.App.OnFrameworkInitializationCompleted()
+  nameWithType: App.OnFrameworkInitializationCompleted()
+- uid: S4UDashboard.App.OnFrameworkInitializationCompleted*
+  name: OnFrameworkInitializationCompleted
+  href: api/S4UDashboard.App.html#S4UDashboard_App_OnFrameworkInitializationCompleted_
+  commentId: Overload:S4UDashboard.App.OnFrameworkInitializationCompleted
+  isSpec: "True"
+  fullName: S4UDashboard.App.OnFrameworkInitializationCompleted
+  nameWithType: App.OnFrameworkInitializationCompleted
+- uid: S4UDashboard.Controls
+  name: S4UDashboard.Controls
+  href: api/S4UDashboard.Controls.html
+  commentId: N:S4UDashboard.Controls
+  fullName: S4UDashboard.Controls
+  nameWithType: S4UDashboard.Controls
+- uid: S4UDashboard.Controls.EnumBinding
+  name: EnumBinding
+  href: api/S4UDashboard.Controls.EnumBinding.html
+  commentId: T:S4UDashboard.Controls.EnumBinding
+  fullName: S4UDashboard.Controls.EnumBinding
+  nameWithType: EnumBinding
+- uid: S4UDashboard.Controls.EnumBinding.#ctor(System.Type)
+  name: EnumBinding(Type)
+  href: api/S4UDashboard.Controls.EnumBinding.html#S4UDashboard_Controls_EnumBinding__ctor_System_Type_
+  commentId: M:S4UDashboard.Controls.EnumBinding.#ctor(System.Type)
+  name.vb: New(Type)
+  fullName: S4UDashboard.Controls.EnumBinding.EnumBinding(System.Type)
+  fullName.vb: S4UDashboard.Controls.EnumBinding.New(System.Type)
+  nameWithType: EnumBinding.EnumBinding(Type)
+  nameWithType.vb: EnumBinding.New(Type)
+- uid: S4UDashboard.Controls.EnumBinding.#ctor*
+  name: EnumBinding
+  href: api/S4UDashboard.Controls.EnumBinding.html#S4UDashboard_Controls_EnumBinding__ctor_
+  commentId: Overload:S4UDashboard.Controls.EnumBinding.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.Controls.EnumBinding.EnumBinding
+  fullName.vb: S4UDashboard.Controls.EnumBinding.New
+  nameWithType: EnumBinding.EnumBinding
+  nameWithType.vb: EnumBinding.New
+- uid: S4UDashboard.Controls.EnumBinding.ProvideValue(System.IServiceProvider)
+  name: ProvideValue(IServiceProvider)
+  href: api/S4UDashboard.Controls.EnumBinding.html#S4UDashboard_Controls_EnumBinding_ProvideValue_System_IServiceProvider_
+  commentId: M:S4UDashboard.Controls.EnumBinding.ProvideValue(System.IServiceProvider)
+  fullName: S4UDashboard.Controls.EnumBinding.ProvideValue(System.IServiceProvider)
+  nameWithType: EnumBinding.ProvideValue(IServiceProvider)
+- uid: S4UDashboard.Controls.EnumBinding.ProvideValue*
+  name: ProvideValue
+  href: api/S4UDashboard.Controls.EnumBinding.html#S4UDashboard_Controls_EnumBinding_ProvideValue_
+  commentId: Overload:S4UDashboard.Controls.EnumBinding.ProvideValue
+  isSpec: "True"
+  fullName: S4UDashboard.Controls.EnumBinding.ProvideValue
+  nameWithType: EnumBinding.ProvideValue
+- uid: S4UDashboard.Controls.HKMenu
+  name: HKMenu
+  href: api/S4UDashboard.Controls.HKMenu.html
+  commentId: T:S4UDashboard.Controls.HKMenu
+  fullName: S4UDashboard.Controls.HKMenu
+  nameWithType: HKMenu
+- uid: S4UDashboard.Controls.HKMenu.OnAttachedToVisualTree(Avalonia.VisualTreeAttachmentEventArgs)
+  name: OnAttachedToVisualTree(VisualTreeAttachmentEventArgs)
+  href: api/S4UDashboard.Controls.HKMenu.html#S4UDashboard_Controls_HKMenu_OnAttachedToVisualTree_Avalonia_VisualTreeAttachmentEventArgs_
+  commentId: M:S4UDashboard.Controls.HKMenu.OnAttachedToVisualTree(Avalonia.VisualTreeAttachmentEventArgs)
+  fullName: S4UDashboard.Controls.HKMenu.OnAttachedToVisualTree(Avalonia.VisualTreeAttachmentEventArgs)
+  nameWithType: HKMenu.OnAttachedToVisualTree(VisualTreeAttachmentEventArgs)
+- uid: S4UDashboard.Controls.HKMenu.OnAttachedToVisualTree*
+  name: OnAttachedToVisualTree
+  href: api/S4UDashboard.Controls.HKMenu.html#S4UDashboard_Controls_HKMenu_OnAttachedToVisualTree_
+  commentId: Overload:S4UDashboard.Controls.HKMenu.OnAttachedToVisualTree
+  isSpec: "True"
+  fullName: S4UDashboard.Controls.HKMenu.OnAttachedToVisualTree
+  nameWithType: HKMenu.OnAttachedToVisualTree
+- uid: S4UDashboard.Controls.HKMenu.OnDetachedFromVisualTree(Avalonia.VisualTreeAttachmentEventArgs)
+  name: OnDetachedFromVisualTree(VisualTreeAttachmentEventArgs)
+  href: api/S4UDashboard.Controls.HKMenu.html#S4UDashboard_Controls_HKMenu_OnDetachedFromVisualTree_Avalonia_VisualTreeAttachmentEventArgs_
+  commentId: M:S4UDashboard.Controls.HKMenu.OnDetachedFromVisualTree(Avalonia.VisualTreeAttachmentEventArgs)
+  fullName: S4UDashboard.Controls.HKMenu.OnDetachedFromVisualTree(Avalonia.VisualTreeAttachmentEventArgs)
+  nameWithType: HKMenu.OnDetachedFromVisualTree(VisualTreeAttachmentEventArgs)
+- uid: S4UDashboard.Controls.HKMenu.OnDetachedFromVisualTree*
+  name: OnDetachedFromVisualTree
+  href: api/S4UDashboard.Controls.HKMenu.html#S4UDashboard_Controls_HKMenu_OnDetachedFromVisualTree_
+  commentId: Overload:S4UDashboard.Controls.HKMenu.OnDetachedFromVisualTree
+  isSpec: "True"
+  fullName: S4UDashboard.Controls.HKMenu.OnDetachedFromVisualTree
+  nameWithType: HKMenu.OnDetachedFromVisualTree
+- uid: S4UDashboard.Controls.HKMenu.StyleKeyOverride
+  name: StyleKeyOverride
+  href: api/S4UDashboard.Controls.HKMenu.html#S4UDashboard_Controls_HKMenu_StyleKeyOverride
+  commentId: P:S4UDashboard.Controls.HKMenu.StyleKeyOverride
+  fullName: S4UDashboard.Controls.HKMenu.StyleKeyOverride
+  nameWithType: HKMenu.StyleKeyOverride
+- uid: S4UDashboard.Controls.HKMenu.StyleKeyOverride*
+  name: StyleKeyOverride
+  href: api/S4UDashboard.Controls.HKMenu.html#S4UDashboard_Controls_HKMenu_StyleKeyOverride_
+  commentId: Overload:S4UDashboard.Controls.HKMenu.StyleKeyOverride
+  isSpec: "True"
+  fullName: S4UDashboard.Controls.HKMenu.StyleKeyOverride
+  nameWithType: HKMenu.StyleKeyOverride
+- uid: S4UDashboard.Controls.ThresholdColourizerMultiConverter
+  name: ThresholdColourizerMultiConverter
+  href: api/S4UDashboard.Controls.ThresholdColourizerMultiConverter.html
+  commentId: T:S4UDashboard.Controls.ThresholdColourizerMultiConverter
+  fullName: S4UDashboard.Controls.ThresholdColourizerMultiConverter
+  nameWithType: ThresholdColourizerMultiConverter
+- uid: S4UDashboard.Controls.ThresholdColourizerMultiConverter.Convert(System.Collections.Generic.IList{System.Object},System.Type,System.Object,System.Globalization.CultureInfo)
+  name: Convert(IList<object?>, Type, object?, CultureInfo)
+  href: api/S4UDashboard.Controls.ThresholdColourizerMultiConverter.html#S4UDashboard_Controls_ThresholdColourizerMultiConverter_Convert_System_Collections_Generic_IList_System_Object__System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:S4UDashboard.Controls.ThresholdColourizerMultiConverter.Convert(System.Collections.Generic.IList{System.Object},System.Type,System.Object,System.Globalization.CultureInfo)
+  name.vb: Convert(IList(Of Object), Type, Object, CultureInfo)
+  fullName: S4UDashboard.Controls.ThresholdColourizerMultiConverter.Convert(System.Collections.Generic.IList<object?>, System.Type, object?, System.Globalization.CultureInfo)
+  fullName.vb: S4UDashboard.Controls.ThresholdColourizerMultiConverter.Convert(System.Collections.Generic.IList(Of Object), System.Type, Object, System.Globalization.CultureInfo)
+  nameWithType: ThresholdColourizerMultiConverter.Convert(IList<object?>, Type, object?, CultureInfo)
+  nameWithType.vb: ThresholdColourizerMultiConverter.Convert(IList(Of Object), Type, Object, CultureInfo)
+- uid: S4UDashboard.Controls.ThresholdColourizerMultiConverter.Convert*
+  name: Convert
+  href: api/S4UDashboard.Controls.ThresholdColourizerMultiConverter.html#S4UDashboard_Controls_ThresholdColourizerMultiConverter_Convert_
+  commentId: Overload:S4UDashboard.Controls.ThresholdColourizerMultiConverter.Convert
+  isSpec: "True"
+  fullName: S4UDashboard.Controls.ThresholdColourizerMultiConverter.Convert
+  nameWithType: ThresholdColourizerMultiConverter.Convert
+- uid: S4UDashboard.Model
+  name: S4UDashboard.Model
+  href: api/S4UDashboard.Model.html
+  commentId: N:S4UDashboard.Model
+  fullName: S4UDashboard.Model
+  nameWithType: S4UDashboard.Model
+- uid: S4UDashboard.Model.AnnotatedDataModel
+  name: AnnotatedDataModel
+  href: api/S4UDashboard.Model.AnnotatedDataModel.html
+  commentId: T:S4UDashboard.Model.AnnotatedDataModel
+  fullName: S4UDashboard.Model.AnnotatedDataModel
+  nameWithType: AnnotatedDataModel
+- uid: S4UDashboard.Model.AnnotatedDataModel.AnnotatedName
+  name: AnnotatedName
+  href: api/S4UDashboard.Model.AnnotatedDataModel.html#S4UDashboard_Model_AnnotatedDataModel_AnnotatedName
+  commentId: P:S4UDashboard.Model.AnnotatedDataModel.AnnotatedName
+  fullName: S4UDashboard.Model.AnnotatedDataModel.AnnotatedName
+  nameWithType: AnnotatedDataModel.AnnotatedName
+- uid: S4UDashboard.Model.AnnotatedDataModel.AnnotatedName*
+  name: AnnotatedName
+  href: api/S4UDashboard.Model.AnnotatedDataModel.html#S4UDashboard_Model_AnnotatedDataModel_AnnotatedName_
+  commentId: Overload:S4UDashboard.Model.AnnotatedDataModel.AnnotatedName
+  isSpec: "True"
+  fullName: S4UDashboard.Model.AnnotatedDataModel.AnnotatedName
+  nameWithType: AnnotatedDataModel.AnnotatedName
+- uid: S4UDashboard.Model.AnnotatedDataModel.LowerThreshold
+  name: LowerThreshold
+  href: api/S4UDashboard.Model.AnnotatedDataModel.html#S4UDashboard_Model_AnnotatedDataModel_LowerThreshold
+  commentId: P:S4UDashboard.Model.AnnotatedDataModel.LowerThreshold
+  fullName: S4UDashboard.Model.AnnotatedDataModel.LowerThreshold
+  nameWithType: AnnotatedDataModel.LowerThreshold
+- uid: S4UDashboard.Model.AnnotatedDataModel.LowerThreshold*
+  name: LowerThreshold
+  href: api/S4UDashboard.Model.AnnotatedDataModel.html#S4UDashboard_Model_AnnotatedDataModel_LowerThreshold_
+  commentId: Overload:S4UDashboard.Model.AnnotatedDataModel.LowerThreshold
+  isSpec: "True"
+  fullName: S4UDashboard.Model.AnnotatedDataModel.LowerThreshold
+  nameWithType: AnnotatedDataModel.LowerThreshold
+- uid: S4UDashboard.Model.AnnotatedDataModel.UpperThreshold
+  name: UpperThreshold
+  href: api/S4UDashboard.Model.AnnotatedDataModel.html#S4UDashboard_Model_AnnotatedDataModel_UpperThreshold
+  commentId: P:S4UDashboard.Model.AnnotatedDataModel.UpperThreshold
+  fullName: S4UDashboard.Model.AnnotatedDataModel.UpperThreshold
+  nameWithType: AnnotatedDataModel.UpperThreshold
+- uid: S4UDashboard.Model.AnnotatedDataModel.UpperThreshold*
+  name: UpperThreshold
+  href: api/S4UDashboard.Model.AnnotatedDataModel.html#S4UDashboard_Model_AnnotatedDataModel_UpperThreshold_
+  commentId: Overload:S4UDashboard.Model.AnnotatedDataModel.UpperThreshold
+  isSpec: "True"
+  fullName: S4UDashboard.Model.AnnotatedDataModel.UpperThreshold
+  nameWithType: AnnotatedDataModel.UpperThreshold
+- uid: S4UDashboard.Model.CalculatedDataModel
+  name: CalculatedDataModel
+  href: api/S4UDashboard.Model.CalculatedDataModel.html
+  commentId: T:S4UDashboard.Model.CalculatedDataModel
+  fullName: S4UDashboard.Model.CalculatedDataModel
+  nameWithType: CalculatedDataModel
+- uid: S4UDashboard.Model.CalculatedDataModel.Maximum
+  name: Maximum
+  href: api/S4UDashboard.Model.CalculatedDataModel.html#S4UDashboard_Model_CalculatedDataModel_Maximum
+  commentId: P:S4UDashboard.Model.CalculatedDataModel.Maximum
+  fullName: S4UDashboard.Model.CalculatedDataModel.Maximum
+  nameWithType: CalculatedDataModel.Maximum
+- uid: S4UDashboard.Model.CalculatedDataModel.Maximum*
+  name: Maximum
+  href: api/S4UDashboard.Model.CalculatedDataModel.html#S4UDashboard_Model_CalculatedDataModel_Maximum_
+  commentId: Overload:S4UDashboard.Model.CalculatedDataModel.Maximum
+  isSpec: "True"
+  fullName: S4UDashboard.Model.CalculatedDataModel.Maximum
+  nameWithType: CalculatedDataModel.Maximum
+- uid: S4UDashboard.Model.CalculatedDataModel.Mean
+  name: Mean
+  href: api/S4UDashboard.Model.CalculatedDataModel.html#S4UDashboard_Model_CalculatedDataModel_Mean
+  commentId: P:S4UDashboard.Model.CalculatedDataModel.Mean
+  fullName: S4UDashboard.Model.CalculatedDataModel.Mean
+  nameWithType: CalculatedDataModel.Mean
+- uid: S4UDashboard.Model.CalculatedDataModel.Mean*
+  name: Mean
+  href: api/S4UDashboard.Model.CalculatedDataModel.html#S4UDashboard_Model_CalculatedDataModel_Mean_
+  commentId: Overload:S4UDashboard.Model.CalculatedDataModel.Mean
+  isSpec: "True"
+  fullName: S4UDashboard.Model.CalculatedDataModel.Mean
+  nameWithType: CalculatedDataModel.Mean
+- uid: S4UDashboard.Model.CalculatedDataModel.Minimum
+  name: Minimum
+  href: api/S4UDashboard.Model.CalculatedDataModel.html#S4UDashboard_Model_CalculatedDataModel_Minimum
+  commentId: P:S4UDashboard.Model.CalculatedDataModel.Minimum
+  fullName: S4UDashboard.Model.CalculatedDataModel.Minimum
+  nameWithType: CalculatedDataModel.Minimum
+- uid: S4UDashboard.Model.CalculatedDataModel.Minimum*
+  name: Minimum
+  href: api/S4UDashboard.Model.CalculatedDataModel.html#S4UDashboard_Model_CalculatedDataModel_Minimum_
+  commentId: Overload:S4UDashboard.Model.CalculatedDataModel.Minimum
+  isSpec: "True"
+  fullName: S4UDashboard.Model.CalculatedDataModel.Minimum
+  nameWithType: CalculatedDataModel.Minimum
+- uid: S4UDashboard.Model.DataProcessing
+  name: DataProcessing
+  href: api/S4UDashboard.Model.DataProcessing.html
+  commentId: T:S4UDashboard.Model.DataProcessing
+  fullName: S4UDashboard.Model.DataProcessing
+  nameWithType: DataProcessing
+- uid: S4UDashboard.Model.DataProcessing.AddSampleDataset(S4UDashboard.Model.AnnotatedDataModel,S4UDashboard.Model.SensorDataModel)
+  name: AddSampleDataset(AnnotatedDataModel, SensorDataModel)
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_AddSampleDataset_S4UDashboard_Model_AnnotatedDataModel_S4UDashboard_Model_SensorDataModel_
+  commentId: M:S4UDashboard.Model.DataProcessing.AddSampleDataset(S4UDashboard.Model.AnnotatedDataModel,S4UDashboard.Model.SensorDataModel)
+  fullName: S4UDashboard.Model.DataProcessing.AddSampleDataset(S4UDashboard.Model.AnnotatedDataModel, S4UDashboard.Model.SensorDataModel)
+  nameWithType: DataProcessing.AddSampleDataset(AnnotatedDataModel, SensorDataModel)
+- uid: S4UDashboard.Model.DataProcessing.AddSampleDataset*
+  name: AddSampleDataset
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_AddSampleDataset_
+  commentId: Overload:S4UDashboard.Model.DataProcessing.AddSampleDataset
+  isSpec: "True"
+  fullName: S4UDashboard.Model.DataProcessing.AddSampleDataset
+  nameWithType: DataProcessing.AddSampleDataset
+- uid: S4UDashboard.Model.DataProcessing.CalculateAuxilliaryData(S4UDashboard.Model.SensorDataModel)
+  name: CalculateAuxilliaryData(SensorDataModel)
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_CalculateAuxilliaryData_S4UDashboard_Model_SensorDataModel_
+  commentId: M:S4UDashboard.Model.DataProcessing.CalculateAuxilliaryData(S4UDashboard.Model.SensorDataModel)
+  fullName: S4UDashboard.Model.DataProcessing.CalculateAuxilliaryData(S4UDashboard.Model.SensorDataModel)
+  nameWithType: DataProcessing.CalculateAuxilliaryData(SensorDataModel)
+- uid: S4UDashboard.Model.DataProcessing.CalculateAuxilliaryData*
+  name: CalculateAuxilliaryData
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_CalculateAuxilliaryData_
+  commentId: Overload:S4UDashboard.Model.DataProcessing.CalculateAuxilliaryData
+  isSpec: "True"
+  fullName: S4UDashboard.Model.DataProcessing.CalculateAuxilliaryData
+  nameWithType: DataProcessing.CalculateAuxilliaryData
+- uid: S4UDashboard.Model.DataProcessing.Datasets
+  name: Datasets
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_Datasets
+  commentId: F:S4UDashboard.Model.DataProcessing.Datasets
+  fullName: S4UDashboard.Model.DataProcessing.Datasets
+  nameWithType: DataProcessing.Datasets
+- uid: S4UDashboard.Model.DataProcessing.GetSortSelector(S4UDashboard.Model.SortMode)
+  name: GetSortSelector(SortMode)
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_GetSortSelector_S4UDashboard_Model_SortMode_
+  commentId: M:S4UDashboard.Model.DataProcessing.GetSortSelector(S4UDashboard.Model.SortMode)
+  fullName: S4UDashboard.Model.DataProcessing.GetSortSelector(S4UDashboard.Model.SortMode)
+  nameWithType: DataProcessing.GetSortSelector(SortMode)
+- uid: S4UDashboard.Model.DataProcessing.GetSortSelector*
+  name: GetSortSelector
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_GetSortSelector_
+  commentId: Overload:S4UDashboard.Model.DataProcessing.GetSortSelector
+  isSpec: "True"
+  fullName: S4UDashboard.Model.DataProcessing.GetSortSelector
+  nameWithType: DataProcessing.GetSortSelector
+- uid: S4UDashboard.Model.DataProcessing.Instance
+  name: Instance
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_Instance
+  commentId: F:S4UDashboard.Model.DataProcessing.Instance
+  fullName: S4UDashboard.Model.DataProcessing.Instance
+  nameWithType: DataProcessing.Instance
+- uid: S4UDashboard.Model.DataProcessing.LoadDataset(S4UDashboard.Model.ILocation,S4UDashboard.Reactive.ReactiveCell{S4UDashboard.Model.DatasetModel}@)
+  name: LoadDataset(ILocation, ref ReactiveCell<DatasetModel>?)
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_LoadDataset_S4UDashboard_Model_ILocation_S4UDashboard_Reactive_ReactiveCell_S4UDashboard_Model_DatasetModel___
+  commentId: M:S4UDashboard.Model.DataProcessing.LoadDataset(S4UDashboard.Model.ILocation,S4UDashboard.Reactive.ReactiveCell{S4UDashboard.Model.DatasetModel}@)
+  name.vb: LoadDataset(ILocation, ReactiveCell(Of DatasetModel))
+  fullName: S4UDashboard.Model.DataProcessing.LoadDataset(S4UDashboard.Model.ILocation, ref S4UDashboard.Reactive.ReactiveCell<S4UDashboard.Model.DatasetModel>?)
+  fullName.vb: S4UDashboard.Model.DataProcessing.LoadDataset(S4UDashboard.Model.ILocation, S4UDashboard.Reactive.ReactiveCell(Of S4UDashboard.Model.DatasetModel))
+  nameWithType: DataProcessing.LoadDataset(ILocation, ref ReactiveCell<DatasetModel>?)
+  nameWithType.vb: DataProcessing.LoadDataset(ILocation, ReactiveCell(Of DatasetModel))
+- uid: S4UDashboard.Model.DataProcessing.LoadDataset*
+  name: LoadDataset
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_LoadDataset_
+  commentId: Overload:S4UDashboard.Model.DataProcessing.LoadDataset
+  isSpec: "True"
+  fullName: S4UDashboard.Model.DataProcessing.LoadDataset
+  nameWithType: DataProcessing.LoadDataset
+- uid: S4UDashboard.Model.DataProcessing.SaveDataset(S4UDashboard.Model.ILocation)
+  name: SaveDataset(ILocation)
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_SaveDataset_S4UDashboard_Model_ILocation_
+  commentId: M:S4UDashboard.Model.DataProcessing.SaveDataset(S4UDashboard.Model.ILocation)
+  fullName: S4UDashboard.Model.DataProcessing.SaveDataset(S4UDashboard.Model.ILocation)
+  nameWithType: DataProcessing.SaveDataset(ILocation)
+- uid: S4UDashboard.Model.DataProcessing.SaveDataset*
+  name: SaveDataset
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_SaveDataset_
+  commentId: Overload:S4UDashboard.Model.DataProcessing.SaveDataset
+  isSpec: "True"
+  fullName: S4UDashboard.Model.DataProcessing.SaveDataset
+  nameWithType: DataProcessing.SaveDataset
+- uid: S4UDashboard.Model.DataProcessing.SaveDatasetAs(S4UDashboard.Model.ILocation,S4UDashboard.Model.ILocation)
+  name: SaveDatasetAs(ILocation, ILocation)
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_SaveDatasetAs_S4UDashboard_Model_ILocation_S4UDashboard_Model_ILocation_
+  commentId: M:S4UDashboard.Model.DataProcessing.SaveDatasetAs(S4UDashboard.Model.ILocation,S4UDashboard.Model.ILocation)
+  fullName: S4UDashboard.Model.DataProcessing.SaveDatasetAs(S4UDashboard.Model.ILocation, S4UDashboard.Model.ILocation)
+  nameWithType: DataProcessing.SaveDatasetAs(ILocation, ILocation)
+- uid: S4UDashboard.Model.DataProcessing.SaveDatasetAs*
+  name: SaveDatasetAs
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_SaveDatasetAs_
+  commentId: Overload:S4UDashboard.Model.DataProcessing.SaveDatasetAs
+  isSpec: "True"
+  fullName: S4UDashboard.Model.DataProcessing.SaveDatasetAs
+  nameWithType: DataProcessing.SaveDatasetAs
+- uid: S4UDashboard.Model.DataProcessing.SearchDatasets(S4UDashboard.Model.SortMode,System.String)
+  name: SearchDatasets(SortMode, string)
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_SearchDatasets_S4UDashboard_Model_SortMode_System_String_
+  commentId: M:S4UDashboard.Model.DataProcessing.SearchDatasets(S4UDashboard.Model.SortMode,System.String)
+  name.vb: SearchDatasets(SortMode, String)
+  fullName: S4UDashboard.Model.DataProcessing.SearchDatasets(S4UDashboard.Model.SortMode, string)
+  fullName.vb: S4UDashboard.Model.DataProcessing.SearchDatasets(S4UDashboard.Model.SortMode, String)
+  nameWithType: DataProcessing.SearchDatasets(SortMode, string)
+  nameWithType.vb: DataProcessing.SearchDatasets(SortMode, String)
+- uid: S4UDashboard.Model.DataProcessing.SearchDatasets*
+  name: SearchDatasets
+  href: api/S4UDashboard.Model.DataProcessing.html#S4UDashboard_Model_DataProcessing_SearchDatasets_
+  commentId: Overload:S4UDashboard.Model.DataProcessing.SearchDatasets
+  isSpec: "True"
+  fullName: S4UDashboard.Model.DataProcessing.SearchDatasets
+  nameWithType: DataProcessing.SearchDatasets
+- uid: S4UDashboard.Model.DatasetModel
+  name: DatasetModel
+  href: api/S4UDashboard.Model.DatasetModel.html
+  commentId: T:S4UDashboard.Model.DatasetModel
+  fullName: S4UDashboard.Model.DatasetModel
+  nameWithType: DatasetModel
+- uid: S4UDashboard.Model.DatasetModel.AnnotatedData
+  name: AnnotatedData
+  href: api/S4UDashboard.Model.DatasetModel.html#S4UDashboard_Model_DatasetModel_AnnotatedData
+  commentId: P:S4UDashboard.Model.DatasetModel.AnnotatedData
+  fullName: S4UDashboard.Model.DatasetModel.AnnotatedData
+  nameWithType: DatasetModel.AnnotatedData
+- uid: S4UDashboard.Model.DatasetModel.AnnotatedData*
+  name: AnnotatedData
+  href: api/S4UDashboard.Model.DatasetModel.html#S4UDashboard_Model_DatasetModel_AnnotatedData_
+  commentId: Overload:S4UDashboard.Model.DatasetModel.AnnotatedData
+  isSpec: "True"
+  fullName: S4UDashboard.Model.DatasetModel.AnnotatedData
+  nameWithType: DatasetModel.AnnotatedData
+- uid: S4UDashboard.Model.DatasetModel.CalculatedData
+  name: CalculatedData
+  href: api/S4UDashboard.Model.DatasetModel.html#S4UDashboard_Model_DatasetModel_CalculatedData
+  commentId: P:S4UDashboard.Model.DatasetModel.CalculatedData
+  fullName: S4UDashboard.Model.DatasetModel.CalculatedData
+  nameWithType: DatasetModel.CalculatedData
+- uid: S4UDashboard.Model.DatasetModel.CalculatedData*
+  name: CalculatedData
+  href: api/S4UDashboard.Model.DatasetModel.html#S4UDashboard_Model_DatasetModel_CalculatedData_
+  commentId: Overload:S4UDashboard.Model.DatasetModel.CalculatedData
+  isSpec: "True"
+  fullName: S4UDashboard.Model.DatasetModel.CalculatedData
+  nameWithType: DatasetModel.CalculatedData
+- uid: S4UDashboard.Model.DatasetModel.SensorData
+  name: SensorData
+  href: api/S4UDashboard.Model.DatasetModel.html#S4UDashboard_Model_DatasetModel_SensorData
+  commentId: P:S4UDashboard.Model.DatasetModel.SensorData
+  fullName: S4UDashboard.Model.DatasetModel.SensorData
+  nameWithType: DatasetModel.SensorData
+- uid: S4UDashboard.Model.DatasetModel.SensorData*
+  name: SensorData
+  href: api/S4UDashboard.Model.DatasetModel.html#S4UDashboard_Model_DatasetModel_SensorData_
+  commentId: Overload:S4UDashboard.Model.DatasetModel.SensorData
+  isSpec: "True"
+  fullName: S4UDashboard.Model.DatasetModel.SensorData
+  nameWithType: DatasetModel.SensorData
+- uid: S4UDashboard.Model.FBMProfile
+  name: FBMProfile
+  href: api/S4UDashboard.Model.FBMProfile.html
+  commentId: T:S4UDashboard.Model.FBMProfile
+  fullName: S4UDashboard.Model.FBMProfile
+  nameWithType: FBMProfile
+- uid: S4UDashboard.Model.FBMProfile.#ctor(System.Int32,System.Double,System.Double,System.Double,System.Double,System.Func{System.Double,System.Double})
+  name: FBMProfile(int, double, double, double, double, Func<double, double>)
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile__ctor_System_Int32_System_Double_System_Double_System_Double_System_Double_System_Func_System_Double_System_Double__
+  commentId: M:S4UDashboard.Model.FBMProfile.#ctor(System.Int32,System.Double,System.Double,System.Double,System.Double,System.Func{System.Double,System.Double})
+  name.vb: New(Integer, Double, Double, Double, Double, Func(Of Double, Double))
+  fullName: S4UDashboard.Model.FBMProfile.FBMProfile(int, double, double, double, double, System.Func<double, double>)
+  fullName.vb: S4UDashboard.Model.FBMProfile.New(Integer, Double, Double, Double, Double, System.Func(Of Double, Double))
+  nameWithType: FBMProfile.FBMProfile(int, double, double, double, double, Func<double, double>)
+  nameWithType.vb: FBMProfile.New(Integer, Double, Double, Double, Double, Func(Of Double, Double))
+- uid: S4UDashboard.Model.FBMProfile.#ctor*
+  name: FBMProfile
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile__ctor_
+  commentId: Overload:S4UDashboard.Model.FBMProfile.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.Model.FBMProfile.FBMProfile
+  fullName.vb: S4UDashboard.Model.FBMProfile.New
+  nameWithType: FBMProfile.FBMProfile
+  nameWithType.vb: FBMProfile.New
+- uid: S4UDashboard.Model.FBMProfile.Gain
+  name: Gain
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile_Gain
+  commentId: P:S4UDashboard.Model.FBMProfile.Gain
+  fullName: S4UDashboard.Model.FBMProfile.Gain
+  nameWithType: FBMProfile.Gain
+- uid: S4UDashboard.Model.FBMProfile.Gain*
+  name: Gain
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile_Gain_
+  commentId: Overload:S4UDashboard.Model.FBMProfile.Gain
+  isSpec: "True"
+  fullName: S4UDashboard.Model.FBMProfile.Gain
+  nameWithType: FBMProfile.Gain
+- uid: S4UDashboard.Model.FBMProfile.InitialAmplitude
+  name: InitialAmplitude
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile_InitialAmplitude
+  commentId: P:S4UDashboard.Model.FBMProfile.InitialAmplitude
+  fullName: S4UDashboard.Model.FBMProfile.InitialAmplitude
+  nameWithType: FBMProfile.InitialAmplitude
+- uid: S4UDashboard.Model.FBMProfile.InitialAmplitude*
+  name: InitialAmplitude
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile_InitialAmplitude_
+  commentId: Overload:S4UDashboard.Model.FBMProfile.InitialAmplitude
+  isSpec: "True"
+  fullName: S4UDashboard.Model.FBMProfile.InitialAmplitude
+  nameWithType: FBMProfile.InitialAmplitude
+- uid: S4UDashboard.Model.FBMProfile.InitialFrequency
+  name: InitialFrequency
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile_InitialFrequency
+  commentId: P:S4UDashboard.Model.FBMProfile.InitialFrequency
+  fullName: S4UDashboard.Model.FBMProfile.InitialFrequency
+  nameWithType: FBMProfile.InitialFrequency
+- uid: S4UDashboard.Model.FBMProfile.InitialFrequency*
+  name: InitialFrequency
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile_InitialFrequency_
+  commentId: Overload:S4UDashboard.Model.FBMProfile.InitialFrequency
+  isSpec: "True"
+  fullName: S4UDashboard.Model.FBMProfile.InitialFrequency
+  nameWithType: FBMProfile.InitialFrequency
+- uid: S4UDashboard.Model.FBMProfile.Lacunarity
+  name: Lacunarity
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile_Lacunarity
+  commentId: P:S4UDashboard.Model.FBMProfile.Lacunarity
+  fullName: S4UDashboard.Model.FBMProfile.Lacunarity
+  nameWithType: FBMProfile.Lacunarity
+- uid: S4UDashboard.Model.FBMProfile.Lacunarity*
+  name: Lacunarity
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile_Lacunarity_
+  commentId: Overload:S4UDashboard.Model.FBMProfile.Lacunarity
+  isSpec: "True"
+  fullName: S4UDashboard.Model.FBMProfile.Lacunarity
+  nameWithType: FBMProfile.Lacunarity
+- uid: S4UDashboard.Model.FBMProfile.NoiseFn
+  name: NoiseFn
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile_NoiseFn
+  commentId: P:S4UDashboard.Model.FBMProfile.NoiseFn
+  fullName: S4UDashboard.Model.FBMProfile.NoiseFn
+  nameWithType: FBMProfile.NoiseFn
+- uid: S4UDashboard.Model.FBMProfile.NoiseFn*
+  name: NoiseFn
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile_NoiseFn_
+  commentId: Overload:S4UDashboard.Model.FBMProfile.NoiseFn
+  isSpec: "True"
+  fullName: S4UDashboard.Model.FBMProfile.NoiseFn
+  nameWithType: FBMProfile.NoiseFn
+- uid: S4UDashboard.Model.FBMProfile.Octaves
+  name: Octaves
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile_Octaves
+  commentId: P:S4UDashboard.Model.FBMProfile.Octaves
+  fullName: S4UDashboard.Model.FBMProfile.Octaves
+  nameWithType: FBMProfile.Octaves
+- uid: S4UDashboard.Model.FBMProfile.Octaves*
+  name: Octaves
+  href: api/S4UDashboard.Model.FBMProfile.html#S4UDashboard_Model_FBMProfile_Octaves_
+  commentId: Overload:S4UDashboard.Model.FBMProfile.Octaves
+  isSpec: "True"
+  fullName: S4UDashboard.Model.FBMProfile.Octaves
+  nameWithType: FBMProfile.Octaves
+- uid: S4UDashboard.Model.FileLocation
+  name: FileLocation
+  href: api/S4UDashboard.Model.FileLocation.html
+  commentId: T:S4UDashboard.Model.FileLocation
+  fullName: S4UDashboard.Model.FileLocation
+  nameWithType: FileLocation
+- uid: S4UDashboard.Model.FileLocation.#ctor(System.String)
+  name: FileLocation(string)
+  href: api/S4UDashboard.Model.FileLocation.html#S4UDashboard_Model_FileLocation__ctor_System_String_
+  commentId: M:S4UDashboard.Model.FileLocation.#ctor(System.String)
+  name.vb: New(String)
+  fullName: S4UDashboard.Model.FileLocation.FileLocation(string)
+  fullName.vb: S4UDashboard.Model.FileLocation.New(String)
+  nameWithType: FileLocation.FileLocation(string)
+  nameWithType.vb: FileLocation.New(String)
+- uid: S4UDashboard.Model.FileLocation.#ctor(System.Uri)
+  name: FileLocation(Uri)
+  href: api/S4UDashboard.Model.FileLocation.html#S4UDashboard_Model_FileLocation__ctor_System_Uri_
+  commentId: M:S4UDashboard.Model.FileLocation.#ctor(System.Uri)
+  name.vb: New(Uri)
+  fullName: S4UDashboard.Model.FileLocation.FileLocation(System.Uri)
+  fullName.vb: S4UDashboard.Model.FileLocation.New(System.Uri)
+  nameWithType: FileLocation.FileLocation(Uri)
+  nameWithType.vb: FileLocation.New(Uri)
+- uid: S4UDashboard.Model.FileLocation.#ctor*
+  name: FileLocation
+  href: api/S4UDashboard.Model.FileLocation.html#S4UDashboard_Model_FileLocation__ctor_
+  commentId: Overload:S4UDashboard.Model.FileLocation.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.Model.FileLocation.FileLocation
+  fullName.vb: S4UDashboard.Model.FileLocation.New
+  nameWithType: FileLocation.FileLocation
+  nameWithType.vb: FileLocation.New
+- uid: S4UDashboard.Model.FileLocation.IsPhysical
+  name: IsPhysical
+  href: api/S4UDashboard.Model.FileLocation.html#S4UDashboard_Model_FileLocation_IsPhysical
+  commentId: P:S4UDashboard.Model.FileLocation.IsPhysical
+  fullName: S4UDashboard.Model.FileLocation.IsPhysical
+  nameWithType: FileLocation.IsPhysical
+- uid: S4UDashboard.Model.FileLocation.IsPhysical*
+  name: IsPhysical
+  href: api/S4UDashboard.Model.FileLocation.html#S4UDashboard_Model_FileLocation_IsPhysical_
+  commentId: Overload:S4UDashboard.Model.FileLocation.IsPhysical
+  isSpec: "True"
+  fullName: S4UDashboard.Model.FileLocation.IsPhysical
+  nameWithType: FileLocation.IsPhysical
+- uid: S4UDashboard.Model.FileLocation.LocationHint
+  name: LocationHint
+  href: api/S4UDashboard.Model.FileLocation.html#S4UDashboard_Model_FileLocation_LocationHint
+  commentId: P:S4UDashboard.Model.FileLocation.LocationHint
+  fullName: S4UDashboard.Model.FileLocation.LocationHint
+  nameWithType: FileLocation.LocationHint
+- uid: S4UDashboard.Model.FileLocation.LocationHint*
+  name: LocationHint
+  href: api/S4UDashboard.Model.FileLocation.html#S4UDashboard_Model_FileLocation_LocationHint_
+  commentId: Overload:S4UDashboard.Model.FileLocation.LocationHint
+  isSpec: "True"
+  fullName: S4UDashboard.Model.FileLocation.LocationHint
+  nameWithType: FileLocation.LocationHint
+- uid: S4UDashboard.Model.FileLocation.LocationPath
+  name: LocationPath
+  href: api/S4UDashboard.Model.FileLocation.html#S4UDashboard_Model_FileLocation_LocationPath
+  commentId: P:S4UDashboard.Model.FileLocation.LocationPath
+  fullName: S4UDashboard.Model.FileLocation.LocationPath
+  nameWithType: FileLocation.LocationPath
+- uid: S4UDashboard.Model.FileLocation.LocationPath*
+  name: LocationPath
+  href: api/S4UDashboard.Model.FileLocation.html#S4UDashboard_Model_FileLocation_LocationPath_
+  commentId: Overload:S4UDashboard.Model.FileLocation.LocationPath
+  isSpec: "True"
+  fullName: S4UDashboard.Model.FileLocation.LocationPath
+  nameWithType: FileLocation.LocationPath
+- uid: S4UDashboard.Model.FileLocation.OpenReadStream
+  name: OpenReadStream()
+  href: api/S4UDashboard.Model.FileLocation.html#S4UDashboard_Model_FileLocation_OpenReadStream
+  commentId: M:S4UDashboard.Model.FileLocation.OpenReadStream
+  fullName: S4UDashboard.Model.FileLocation.OpenReadStream()
+  nameWithType: FileLocation.OpenReadStream()
+- uid: S4UDashboard.Model.FileLocation.OpenReadStream*
+  name: OpenReadStream
+  href: api/S4UDashboard.Model.FileLocation.html#S4UDashboard_Model_FileLocation_OpenReadStream_
+  commentId: Overload:S4UDashboard.Model.FileLocation.OpenReadStream
+  isSpec: "True"
+  fullName: S4UDashboard.Model.FileLocation.OpenReadStream
+  nameWithType: FileLocation.OpenReadStream
+- uid: S4UDashboard.Model.FileLocation.OpenWriteStream
+  name: OpenWriteStream()
+  href: api/S4UDashboard.Model.FileLocation.html#S4UDashboard_Model_FileLocation_OpenWriteStream
+  commentId: M:S4UDashboard.Model.FileLocation.OpenWriteStream
+  fullName: S4UDashboard.Model.FileLocation.OpenWriteStream()
+  nameWithType: FileLocation.OpenWriteStream()
+- uid: S4UDashboard.Model.FileLocation.OpenWriteStream*
+  name: OpenWriteStream
+  href: api/S4UDashboard.Model.FileLocation.html#S4UDashboard_Model_FileLocation_OpenWriteStream_
+  commentId: Overload:S4UDashboard.Model.FileLocation.OpenWriteStream
+  isSpec: "True"
+  fullName: S4UDashboard.Model.FileLocation.OpenWriteStream
+  nameWithType: FileLocation.OpenWriteStream
+- uid: S4UDashboard.Model.GeneratorProfile
+  name: GeneratorProfile
+  href: api/S4UDashboard.Model.GeneratorProfile.html
+  commentId: T:S4UDashboard.Model.GeneratorProfile
+  fullName: S4UDashboard.Model.GeneratorProfile
+  nameWithType: GeneratorProfile
+- uid: S4UDashboard.Model.GeneratorProfile.#ctor(System.Collections.Immutable.ImmutableArray{System.String},System.Collections.Immutable.ImmutableArray{S4UDashboard.Model.SensorProfile})
+  name: GeneratorProfile(ImmutableArray<string>, ImmutableArray<SensorProfile>)
+  href: api/S4UDashboard.Model.GeneratorProfile.html#S4UDashboard_Model_GeneratorProfile__ctor_System_Collections_Immutable_ImmutableArray_System_String__System_Collections_Immutable_ImmutableArray_S4UDashboard_Model_SensorProfile__
+  commentId: M:S4UDashboard.Model.GeneratorProfile.#ctor(System.Collections.Immutable.ImmutableArray{System.String},System.Collections.Immutable.ImmutableArray{S4UDashboard.Model.SensorProfile})
+  name.vb: New(ImmutableArray(Of String), ImmutableArray(Of SensorProfile))
+  fullName: S4UDashboard.Model.GeneratorProfile.GeneratorProfile(System.Collections.Immutable.ImmutableArray<string>, System.Collections.Immutable.ImmutableArray<S4UDashboard.Model.SensorProfile>)
+  fullName.vb: S4UDashboard.Model.GeneratorProfile.New(System.Collections.Immutable.ImmutableArray(Of String), System.Collections.Immutable.ImmutableArray(Of S4UDashboard.Model.SensorProfile))
+  nameWithType: GeneratorProfile.GeneratorProfile(ImmutableArray<string>, ImmutableArray<SensorProfile>)
+  nameWithType.vb: GeneratorProfile.New(ImmutableArray(Of String), ImmutableArray(Of SensorProfile))
+- uid: S4UDashboard.Model.GeneratorProfile.#ctor*
+  name: GeneratorProfile
+  href: api/S4UDashboard.Model.GeneratorProfile.html#S4UDashboard_Model_GeneratorProfile__ctor_
+  commentId: Overload:S4UDashboard.Model.GeneratorProfile.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.Model.GeneratorProfile.GeneratorProfile
+  fullName.vb: S4UDashboard.Model.GeneratorProfile.New
+  nameWithType: GeneratorProfile.GeneratorProfile
+  nameWithType.vb: GeneratorProfile.New
+- uid: S4UDashboard.Model.GeneratorProfile.SensorNames
+  name: SensorNames
+  href: api/S4UDashboard.Model.GeneratorProfile.html#S4UDashboard_Model_GeneratorProfile_SensorNames
+  commentId: P:S4UDashboard.Model.GeneratorProfile.SensorNames
+  fullName: S4UDashboard.Model.GeneratorProfile.SensorNames
+  nameWithType: GeneratorProfile.SensorNames
+- uid: S4UDashboard.Model.GeneratorProfile.SensorNames*
+  name: SensorNames
+  href: api/S4UDashboard.Model.GeneratorProfile.html#S4UDashboard_Model_GeneratorProfile_SensorNames_
+  commentId: Overload:S4UDashboard.Model.GeneratorProfile.SensorNames
+  isSpec: "True"
+  fullName: S4UDashboard.Model.GeneratorProfile.SensorNames
+  nameWithType: GeneratorProfile.SensorNames
+- uid: S4UDashboard.Model.GeneratorProfile.SensorProfiles
+  name: SensorProfiles
+  href: api/S4UDashboard.Model.GeneratorProfile.html#S4UDashboard_Model_GeneratorProfile_SensorProfiles
+  commentId: P:S4UDashboard.Model.GeneratorProfile.SensorProfiles
+  fullName: S4UDashboard.Model.GeneratorProfile.SensorProfiles
+  nameWithType: GeneratorProfile.SensorProfiles
+- uid: S4UDashboard.Model.GeneratorProfile.SensorProfiles*
+  name: SensorProfiles
+  href: api/S4UDashboard.Model.GeneratorProfile.html#S4UDashboard_Model_GeneratorProfile_SensorProfiles_
+  commentId: Overload:S4UDashboard.Model.GeneratorProfile.SensorProfiles
+  isSpec: "True"
+  fullName: S4UDashboard.Model.GeneratorProfile.SensorProfiles
+  nameWithType: GeneratorProfile.SensorProfiles
+- uid: S4UDashboard.Model.ILocation
+  name: ILocation
+  href: api/S4UDashboard.Model.ILocation.html
+  commentId: T:S4UDashboard.Model.ILocation
+  fullName: S4UDashboard.Model.ILocation
+  nameWithType: ILocation
+- uid: S4UDashboard.Model.ILocation.IsPhysical
+  name: IsPhysical
+  href: api/S4UDashboard.Model.ILocation.html#S4UDashboard_Model_ILocation_IsPhysical
+  commentId: P:S4UDashboard.Model.ILocation.IsPhysical
+  fullName: S4UDashboard.Model.ILocation.IsPhysical
+  nameWithType: ILocation.IsPhysical
+- uid: S4UDashboard.Model.ILocation.IsPhysical*
+  name: IsPhysical
+  href: api/S4UDashboard.Model.ILocation.html#S4UDashboard_Model_ILocation_IsPhysical_
+  commentId: Overload:S4UDashboard.Model.ILocation.IsPhysical
+  isSpec: "True"
+  fullName: S4UDashboard.Model.ILocation.IsPhysical
+  nameWithType: ILocation.IsPhysical
+- uid: S4UDashboard.Model.ILocation.LocationHint
+  name: LocationHint
+  href: api/S4UDashboard.Model.ILocation.html#S4UDashboard_Model_ILocation_LocationHint
+  commentId: P:S4UDashboard.Model.ILocation.LocationHint
+  fullName: S4UDashboard.Model.ILocation.LocationHint
+  nameWithType: ILocation.LocationHint
+- uid: S4UDashboard.Model.ILocation.LocationHint*
+  name: LocationHint
+  href: api/S4UDashboard.Model.ILocation.html#S4UDashboard_Model_ILocation_LocationHint_
+  commentId: Overload:S4UDashboard.Model.ILocation.LocationHint
+  isSpec: "True"
+  fullName: S4UDashboard.Model.ILocation.LocationHint
+  nameWithType: ILocation.LocationHint
+- uid: S4UDashboard.Model.ILocation.OpenReadStream
+  name: OpenReadStream()
+  href: api/S4UDashboard.Model.ILocation.html#S4UDashboard_Model_ILocation_OpenReadStream
+  commentId: M:S4UDashboard.Model.ILocation.OpenReadStream
+  fullName: S4UDashboard.Model.ILocation.OpenReadStream()
+  nameWithType: ILocation.OpenReadStream()
+- uid: S4UDashboard.Model.ILocation.OpenReadStream*
+  name: OpenReadStream
+  href: api/S4UDashboard.Model.ILocation.html#S4UDashboard_Model_ILocation_OpenReadStream_
+  commentId: Overload:S4UDashboard.Model.ILocation.OpenReadStream
+  isSpec: "True"
+  fullName: S4UDashboard.Model.ILocation.OpenReadStream
+  nameWithType: ILocation.OpenReadStream
+- uid: S4UDashboard.Model.ILocation.OpenWriteStream
+  name: OpenWriteStream()
+  href: api/S4UDashboard.Model.ILocation.html#S4UDashboard_Model_ILocation_OpenWriteStream
+  commentId: M:S4UDashboard.Model.ILocation.OpenWriteStream
+  fullName: S4UDashboard.Model.ILocation.OpenWriteStream()
+  nameWithType: ILocation.OpenWriteStream()
+- uid: S4UDashboard.Model.ILocation.OpenWriteStream*
+  name: OpenWriteStream
+  href: api/S4UDashboard.Model.ILocation.html#S4UDashboard_Model_ILocation_OpenWriteStream_
+  commentId: Overload:S4UDashboard.Model.ILocation.OpenWriteStream
+  isSpec: "True"
+  fullName: S4UDashboard.Model.ILocation.OpenWriteStream
+  nameWithType: ILocation.OpenWriteStream
+- uid: S4UDashboard.Model.Immutable2DArray`1
+  name: Immutable2DArray<T>
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html
+  commentId: T:S4UDashboard.Model.Immutable2DArray`1
+  name.vb: Immutable2DArray(Of T)
+  fullName: S4UDashboard.Model.Immutable2DArray<T>
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T)
+  nameWithType: Immutable2DArray<T>
+  nameWithType.vb: Immutable2DArray(Of T)
+- uid: S4UDashboard.Model.Immutable2DArray`1.#ctor(System.Collections.Generic.IEnumerable{`0},System.Int32,System.Int32)
+  name: Immutable2DArray(IEnumerable<T>, int, int)
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1__ctor_System_Collections_Generic_IEnumerable__0__System_Int32_System_Int32_
+  commentId: M:S4UDashboard.Model.Immutable2DArray`1.#ctor(System.Collections.Generic.IEnumerable{`0},System.Int32,System.Int32)
+  name.vb: New(IEnumerable(Of T), Integer, Integer)
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.Immutable2DArray(System.Collections.Generic.IEnumerable<T>, int, int)
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).New(System.Collections.Generic.IEnumerable(Of T), Integer, Integer)
+  nameWithType: Immutable2DArray<T>.Immutable2DArray(IEnumerable<T>, int, int)
+  nameWithType.vb: Immutable2DArray(Of T).New(IEnumerable(Of T), Integer, Integer)
+- uid: S4UDashboard.Model.Immutable2DArray`1.#ctor*
+  name: Immutable2DArray
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1__ctor_
+  commentId: Overload:S4UDashboard.Model.Immutable2DArray`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.Immutable2DArray
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).New
+  nameWithType: Immutable2DArray<T>.Immutable2DArray
+  nameWithType.vb: Immutable2DArray(Of T).New
+- uid: S4UDashboard.Model.Immutable2DArray`1.Columns
+  name: Columns
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_Columns
+  commentId: F:S4UDashboard.Model.Immutable2DArray`1.Columns
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.Columns
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).Columns
+  nameWithType: Immutable2DArray<T>.Columns
+  nameWithType.vb: Immutable2DArray(Of T).Columns
+- uid: S4UDashboard.Model.Immutable2DArray`1.EnumerateColumn(System.Int32)
+  name: EnumerateColumn(int)
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_EnumerateColumn_System_Int32_
+  commentId: M:S4UDashboard.Model.Immutable2DArray`1.EnumerateColumn(System.Int32)
+  name.vb: EnumerateColumn(Integer)
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.EnumerateColumn(int)
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).EnumerateColumn(Integer)
+  nameWithType: Immutable2DArray<T>.EnumerateColumn(int)
+  nameWithType.vb: Immutable2DArray(Of T).EnumerateColumn(Integer)
+- uid: S4UDashboard.Model.Immutable2DArray`1.EnumerateColumn*
+  name: EnumerateColumn
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_EnumerateColumn_
+  commentId: Overload:S4UDashboard.Model.Immutable2DArray`1.EnumerateColumn
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.EnumerateColumn
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).EnumerateColumn
+  nameWithType: Immutable2DArray<T>.EnumerateColumn
+  nameWithType.vb: Immutable2DArray(Of T).EnumerateColumn
+- uid: S4UDashboard.Model.Immutable2DArray`1.EnumerateFlat
+  name: EnumerateFlat()
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_EnumerateFlat
+  commentId: M:S4UDashboard.Model.Immutable2DArray`1.EnumerateFlat
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.EnumerateFlat()
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).EnumerateFlat()
+  nameWithType: Immutable2DArray<T>.EnumerateFlat()
+  nameWithType.vb: Immutable2DArray(Of T).EnumerateFlat()
+- uid: S4UDashboard.Model.Immutable2DArray`1.EnumerateFlat*
+  name: EnumerateFlat
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_EnumerateFlat_
+  commentId: Overload:S4UDashboard.Model.Immutable2DArray`1.EnumerateFlat
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.EnumerateFlat
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).EnumerateFlat
+  nameWithType: Immutable2DArray<T>.EnumerateFlat
+  nameWithType.vb: Immutable2DArray(Of T).EnumerateFlat
+- uid: S4UDashboard.Model.Immutable2DArray`1.EnumerateRow(System.Int32)
+  name: EnumerateRow(int)
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_EnumerateRow_System_Int32_
+  commentId: M:S4UDashboard.Model.Immutable2DArray`1.EnumerateRow(System.Int32)
+  name.vb: EnumerateRow(Integer)
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.EnumerateRow(int)
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).EnumerateRow(Integer)
+  nameWithType: Immutable2DArray<T>.EnumerateRow(int)
+  nameWithType.vb: Immutable2DArray(Of T).EnumerateRow(Integer)
+- uid: S4UDashboard.Model.Immutable2DArray`1.EnumerateRow*
+  name: EnumerateRow
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_EnumerateRow_
+  commentId: Overload:S4UDashboard.Model.Immutable2DArray`1.EnumerateRow
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.EnumerateRow
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).EnumerateRow
+  nameWithType: Immutable2DArray<T>.EnumerateRow
+  nameWithType.vb: Immutable2DArray(Of T).EnumerateRow
+- uid: S4UDashboard.Model.Immutable2DArray`1.GetEnumerator
+  name: GetEnumerator()
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_GetEnumerator
+  commentId: M:S4UDashboard.Model.Immutable2DArray`1.GetEnumerator
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.GetEnumerator()
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).GetEnumerator()
+  nameWithType: Immutable2DArray<T>.GetEnumerator()
+  nameWithType.vb: Immutable2DArray(Of T).GetEnumerator()
+- uid: S4UDashboard.Model.Immutable2DArray`1.GetEnumerator*
+  name: GetEnumerator
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_GetEnumerator_
+  commentId: Overload:S4UDashboard.Model.Immutable2DArray`1.GetEnumerator
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.GetEnumerator
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).GetEnumerator
+  nameWithType: Immutable2DArray<T>.GetEnumerator
+  nameWithType.vb: Immutable2DArray(Of T).GetEnumerator
+- uid: S4UDashboard.Model.Immutable2DArray`1.Item(System.Int32,System.Int32)
+  name: this[int, int]
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_Item_System_Int32_System_Int32_
+  commentId: P:S4UDashboard.Model.Immutable2DArray`1.Item(System.Int32,System.Int32)
+  name.vb: this[](Integer, Integer)
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.this[int, int]
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).this[](Integer, Integer)
+  nameWithType: Immutable2DArray<T>.this[int, int]
+  nameWithType.vb: Immutable2DArray(Of T).this[](Integer, Integer)
+- uid: S4UDashboard.Model.Immutable2DArray`1.Item*
+  name: this
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_Item_
+  commentId: Overload:S4UDashboard.Model.Immutable2DArray`1.Item
+  isSpec: "True"
+  name.vb: this[]
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.this
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).this[]
+  nameWithType: Immutable2DArray<T>.this
+  nameWithType.vb: Immutable2DArray(Of T).this[]
+- uid: S4UDashboard.Model.Immutable2DArray`1.Length
+  name: Length
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_Length
+  commentId: P:S4UDashboard.Model.Immutable2DArray`1.Length
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.Length
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).Length
+  nameWithType: Immutable2DArray<T>.Length
+  nameWithType.vb: Immutable2DArray(Of T).Length
+- uid: S4UDashboard.Model.Immutable2DArray`1.Length*
+  name: Length
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_Length_
+  commentId: Overload:S4UDashboard.Model.Immutable2DArray`1.Length
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.Length
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).Length
+  nameWithType: Immutable2DArray<T>.Length
+  nameWithType.vb: Immutable2DArray(Of T).Length
+- uid: S4UDashboard.Model.Immutable2DArray`1.Rows
+  name: Rows
+  href: api/S4UDashboard.Model.Immutable2DArray-1.html#S4UDashboard_Model_Immutable2DArray_1_Rows
+  commentId: F:S4UDashboard.Model.Immutable2DArray`1.Rows
+  fullName: S4UDashboard.Model.Immutable2DArray<T>.Rows
+  fullName.vb: S4UDashboard.Model.Immutable2DArray(Of T).Rows
+  nameWithType: Immutable2DArray<T>.Rows
+  nameWithType.vb: Immutable2DArray(Of T).Rows
+- uid: S4UDashboard.Model.SampleGenerator
+  name: SampleGenerator
+  href: api/S4UDashboard.Model.SampleGenerator.html
+  commentId: T:S4UDashboard.Model.SampleGenerator
+  fullName: S4UDashboard.Model.SampleGenerator
+  nameWithType: SampleGenerator
+- uid: S4UDashboard.Model.SampleGenerator.DefaultProfile
+  name: DefaultProfile
+  href: api/S4UDashboard.Model.SampleGenerator.html#S4UDashboard_Model_SampleGenerator_DefaultProfile
+  commentId: F:S4UDashboard.Model.SampleGenerator.DefaultProfile
+  fullName: S4UDashboard.Model.SampleGenerator.DefaultProfile
+  nameWithType: SampleGenerator.DefaultProfile
+- uid: S4UDashboard.Model.SampleGenerator.GenerateSensorData(S4UDashboard.Model.GeneratorProfile,System.Int32,System.Int32)
+  name: GenerateSensorData(GeneratorProfile, int, int)
+  href: api/S4UDashboard.Model.SampleGenerator.html#S4UDashboard_Model_SampleGenerator_GenerateSensorData_S4UDashboard_Model_GeneratorProfile_System_Int32_System_Int32_
+  commentId: M:S4UDashboard.Model.SampleGenerator.GenerateSensorData(S4UDashboard.Model.GeneratorProfile,System.Int32,System.Int32)
+  name.vb: GenerateSensorData(GeneratorProfile, Integer, Integer)
+  fullName: S4UDashboard.Model.SampleGenerator.GenerateSensorData(S4UDashboard.Model.GeneratorProfile, int, int)
+  fullName.vb: S4UDashboard.Model.SampleGenerator.GenerateSensorData(S4UDashboard.Model.GeneratorProfile, Integer, Integer)
+  nameWithType: SampleGenerator.GenerateSensorData(GeneratorProfile, int, int)
+  nameWithType.vb: SampleGenerator.GenerateSensorData(GeneratorProfile, Integer, Integer)
+- uid: S4UDashboard.Model.SampleGenerator.GenerateSensorData*
+  name: GenerateSensorData
+  href: api/S4UDashboard.Model.SampleGenerator.html#S4UDashboard_Model_SampleGenerator_GenerateSensorData_
+  commentId: Overload:S4UDashboard.Model.SampleGenerator.GenerateSensorData
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SampleGenerator.GenerateSensorData
+  nameWithType: SampleGenerator.GenerateSensorData
+- uid: S4UDashboard.Model.SensorDataModel
+  name: SensorDataModel
+  href: api/S4UDashboard.Model.SensorDataModel.html
+  commentId: T:S4UDashboard.Model.SensorDataModel
+  fullName: S4UDashboard.Model.SensorDataModel
+  nameWithType: SensorDataModel
+- uid: S4UDashboard.Model.SensorDataModel.MeasurementIdentifier
+  name: MeasurementIdentifier
+  href: api/S4UDashboard.Model.SensorDataModel.html#S4UDashboard_Model_SensorDataModel_MeasurementIdentifier
+  commentId: P:S4UDashboard.Model.SensorDataModel.MeasurementIdentifier
+  fullName: S4UDashboard.Model.SensorDataModel.MeasurementIdentifier
+  nameWithType: SensorDataModel.MeasurementIdentifier
+- uid: S4UDashboard.Model.SensorDataModel.MeasurementIdentifier*
+  name: MeasurementIdentifier
+  href: api/S4UDashboard.Model.SensorDataModel.html#S4UDashboard_Model_SensorDataModel_MeasurementIdentifier_
+  commentId: Overload:S4UDashboard.Model.SensorDataModel.MeasurementIdentifier
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SensorDataModel.MeasurementIdentifier
+  nameWithType: SensorDataModel.MeasurementIdentifier
+- uid: S4UDashboard.Model.SensorDataModel.Samples
+  name: Samples
+  href: api/S4UDashboard.Model.SensorDataModel.html#S4UDashboard_Model_SensorDataModel_Samples
+  commentId: P:S4UDashboard.Model.SensorDataModel.Samples
+  fullName: S4UDashboard.Model.SensorDataModel.Samples
+  nameWithType: SensorDataModel.Samples
+- uid: S4UDashboard.Model.SensorDataModel.Samples*
+  name: Samples
+  href: api/S4UDashboard.Model.SensorDataModel.html#S4UDashboard_Model_SensorDataModel_Samples_
+  commentId: Overload:S4UDashboard.Model.SensorDataModel.Samples
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SensorDataModel.Samples
+  nameWithType: SensorDataModel.Samples
+- uid: S4UDashboard.Model.SensorDataModel.SensorNames
+  name: SensorNames
+  href: api/S4UDashboard.Model.SensorDataModel.html#S4UDashboard_Model_SensorDataModel_SensorNames
+  commentId: P:S4UDashboard.Model.SensorDataModel.SensorNames
+  fullName: S4UDashboard.Model.SensorDataModel.SensorNames
+  nameWithType: SensorDataModel.SensorNames
+- uid: S4UDashboard.Model.SensorDataModel.SensorNames*
+  name: SensorNames
+  href: api/S4UDashboard.Model.SensorDataModel.html#S4UDashboard_Model_SensorDataModel_SensorNames_
+  commentId: Overload:S4UDashboard.Model.SensorDataModel.SensorNames
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SensorDataModel.SensorNames
+  nameWithType: SensorDataModel.SensorNames
+- uid: S4UDashboard.Model.SensorProfile
+  name: SensorProfile
+  href: api/S4UDashboard.Model.SensorProfile.html
+  commentId: T:S4UDashboard.Model.SensorProfile
+  fullName: S4UDashboard.Model.SensorProfile
+  nameWithType: SensorProfile
+- uid: S4UDashboard.Model.SensorProfile.#ctor(System.String,S4UDashboard.Model.FBMProfile)
+  name: SensorProfile(string, FBMProfile)
+  href: api/S4UDashboard.Model.SensorProfile.html#S4UDashboard_Model_SensorProfile__ctor_System_String_S4UDashboard_Model_FBMProfile_
+  commentId: M:S4UDashboard.Model.SensorProfile.#ctor(System.String,S4UDashboard.Model.FBMProfile)
+  name.vb: New(String, FBMProfile)
+  fullName: S4UDashboard.Model.SensorProfile.SensorProfile(string, S4UDashboard.Model.FBMProfile)
+  fullName.vb: S4UDashboard.Model.SensorProfile.New(String, S4UDashboard.Model.FBMProfile)
+  nameWithType: SensorProfile.SensorProfile(string, FBMProfile)
+  nameWithType.vb: SensorProfile.New(String, FBMProfile)
+- uid: S4UDashboard.Model.SensorProfile.#ctor*
+  name: SensorProfile
+  href: api/S4UDashboard.Model.SensorProfile.html#S4UDashboard_Model_SensorProfile__ctor_
+  commentId: Overload:S4UDashboard.Model.SensorProfile.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.Model.SensorProfile.SensorProfile
+  fullName.vb: S4UDashboard.Model.SensorProfile.New
+  nameWithType: SensorProfile.SensorProfile
+  nameWithType.vb: SensorProfile.New
+- uid: S4UDashboard.Model.SensorProfile.MeasurementIdentifier
+  name: MeasurementIdentifier
+  href: api/S4UDashboard.Model.SensorProfile.html#S4UDashboard_Model_SensorProfile_MeasurementIdentifier
+  commentId: P:S4UDashboard.Model.SensorProfile.MeasurementIdentifier
+  fullName: S4UDashboard.Model.SensorProfile.MeasurementIdentifier
+  nameWithType: SensorProfile.MeasurementIdentifier
+- uid: S4UDashboard.Model.SensorProfile.MeasurementIdentifier*
+  name: MeasurementIdentifier
+  href: api/S4UDashboard.Model.SensorProfile.html#S4UDashboard_Model_SensorProfile_MeasurementIdentifier_
+  commentId: Overload:S4UDashboard.Model.SensorProfile.MeasurementIdentifier
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SensorProfile.MeasurementIdentifier
+  nameWithType: SensorProfile.MeasurementIdentifier
+- uid: S4UDashboard.Model.SensorProfile.NoiseProfile
+  name: NoiseProfile
+  href: api/S4UDashboard.Model.SensorProfile.html#S4UDashboard_Model_SensorProfile_NoiseProfile
+  commentId: P:S4UDashboard.Model.SensorProfile.NoiseProfile
+  fullName: S4UDashboard.Model.SensorProfile.NoiseProfile
+  nameWithType: SensorProfile.NoiseProfile
+- uid: S4UDashboard.Model.SensorProfile.NoiseProfile*
+  name: NoiseProfile
+  href: api/S4UDashboard.Model.SensorProfile.html#S4UDashboard_Model_SensorProfile_NoiseProfile_
+  commentId: Overload:S4UDashboard.Model.SensorProfile.NoiseProfile
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SensorProfile.NoiseProfile
+  nameWithType: SensorProfile.NoiseProfile
+- uid: S4UDashboard.Model.Serialization
+  name: Serialization
+  href: api/S4UDashboard.Model.Serialization.html
+  commentId: T:S4UDashboard.Model.Serialization
+  fullName: S4UDashboard.Model.Serialization
+  nameWithType: Serialization
+- uid: S4UDashboard.Model.Serialization.Read*
+  name: Read
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_Read_
+  commentId: Overload:S4UDashboard.Model.Serialization.Read
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Serialization.Read
+  nameWithType: Serialization.Read
+- uid: S4UDashboard.Model.Serialization.ReadEnumerable*
+  name: ReadEnumerable
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_ReadEnumerable_
+  commentId: Overload:S4UDashboard.Model.Serialization.ReadEnumerable
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Serialization.ReadEnumerable
+  nameWithType: Serialization.ReadEnumerable
+- uid: S4UDashboard.Model.Serialization.ReadEnumerable``1(System.IO.BinaryReader,System.Func{System.IO.BinaryReader,``0})
+  name: ReadEnumerable<T>(BinaryReader, Func<BinaryReader, T>)
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_ReadEnumerable__1_System_IO_BinaryReader_System_Func_System_IO_BinaryReader___0__
+  commentId: M:S4UDashboard.Model.Serialization.ReadEnumerable``1(System.IO.BinaryReader,System.Func{System.IO.BinaryReader,``0})
+  name.vb: ReadEnumerable(Of T)(BinaryReader, Func(Of BinaryReader, T))
+  fullName: S4UDashboard.Model.Serialization.ReadEnumerable<T>(System.IO.BinaryReader, System.Func<System.IO.BinaryReader, T>)
+  fullName.vb: S4UDashboard.Model.Serialization.ReadEnumerable(Of T)(System.IO.BinaryReader, System.Func(Of System.IO.BinaryReader, T))
+  nameWithType: Serialization.ReadEnumerable<T>(BinaryReader, Func<BinaryReader, T>)
+  nameWithType.vb: Serialization.ReadEnumerable(Of T)(BinaryReader, Func(Of BinaryReader, T))
+- uid: S4UDashboard.Model.Serialization.ReadOptional*
+  name: ReadOptional
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_ReadOptional_
+  commentId: Overload:S4UDashboard.Model.Serialization.ReadOptional
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Serialization.ReadOptional
+  nameWithType: Serialization.ReadOptional
+- uid: S4UDashboard.Model.Serialization.ReadOptionalValue*
+  name: ReadOptionalValue
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_ReadOptionalValue_
+  commentId: Overload:S4UDashboard.Model.Serialization.ReadOptionalValue
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Serialization.ReadOptionalValue
+  nameWithType: Serialization.ReadOptionalValue
+- uid: S4UDashboard.Model.Serialization.ReadOptionalValue``1(System.IO.BinaryReader,System.Func{System.IO.BinaryReader,``0})
+  name: ReadOptionalValue<T>(BinaryReader, Func<BinaryReader, T>)
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_ReadOptionalValue__1_System_IO_BinaryReader_System_Func_System_IO_BinaryReader___0__
+  commentId: M:S4UDashboard.Model.Serialization.ReadOptionalValue``1(System.IO.BinaryReader,System.Func{System.IO.BinaryReader,``0})
+  name.vb: ReadOptionalValue(Of T)(BinaryReader, Func(Of BinaryReader, T))
+  fullName: S4UDashboard.Model.Serialization.ReadOptionalValue<T>(System.IO.BinaryReader, System.Func<System.IO.BinaryReader, T>)
+  fullName.vb: S4UDashboard.Model.Serialization.ReadOptionalValue(Of T)(System.IO.BinaryReader, System.Func(Of System.IO.BinaryReader, T))
+  nameWithType: Serialization.ReadOptionalValue<T>(BinaryReader, Func<BinaryReader, T>)
+  nameWithType.vb: Serialization.ReadOptionalValue(Of T)(BinaryReader, Func(Of BinaryReader, T))
+- uid: S4UDashboard.Model.Serialization.ReadOptional``1(System.IO.BinaryReader,System.Func{System.IO.BinaryReader,``0})
+  name: ReadOptional<T>(BinaryReader, Func<BinaryReader, T>)
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_ReadOptional__1_System_IO_BinaryReader_System_Func_System_IO_BinaryReader___0__
+  commentId: M:S4UDashboard.Model.Serialization.ReadOptional``1(System.IO.BinaryReader,System.Func{System.IO.BinaryReader,``0})
+  name.vb: ReadOptional(Of T)(BinaryReader, Func(Of BinaryReader, T))
+  fullName: S4UDashboard.Model.Serialization.ReadOptional<T>(System.IO.BinaryReader, System.Func<System.IO.BinaryReader, T>)
+  fullName.vb: S4UDashboard.Model.Serialization.ReadOptional(Of T)(System.IO.BinaryReader, System.Func(Of System.IO.BinaryReader, T))
+  nameWithType: Serialization.ReadOptional<T>(BinaryReader, Func<BinaryReader, T>)
+  nameWithType.vb: Serialization.ReadOptional(Of T)(BinaryReader, Func(Of BinaryReader, T))
+- uid: S4UDashboard.Model.Serialization.ReadRawEnumerable*
+  name: ReadRawEnumerable
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_ReadRawEnumerable_
+  commentId: Overload:S4UDashboard.Model.Serialization.ReadRawEnumerable
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Serialization.ReadRawEnumerable
+  nameWithType: Serialization.ReadRawEnumerable
+- uid: S4UDashboard.Model.Serialization.ReadRawEnumerable``1(System.IO.BinaryReader,System.Func{System.IO.BinaryReader,``0},System.Int32)
+  name: ReadRawEnumerable<T>(BinaryReader, Func<BinaryReader, T>, int)
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_ReadRawEnumerable__1_System_IO_BinaryReader_System_Func_System_IO_BinaryReader___0__System_Int32_
+  commentId: M:S4UDashboard.Model.Serialization.ReadRawEnumerable``1(System.IO.BinaryReader,System.Func{System.IO.BinaryReader,``0},System.Int32)
+  name.vb: ReadRawEnumerable(Of T)(BinaryReader, Func(Of BinaryReader, T), Integer)
+  fullName: S4UDashboard.Model.Serialization.ReadRawEnumerable<T>(System.IO.BinaryReader, System.Func<System.IO.BinaryReader, T>, int)
+  fullName.vb: S4UDashboard.Model.Serialization.ReadRawEnumerable(Of T)(System.IO.BinaryReader, System.Func(Of System.IO.BinaryReader, T), Integer)
+  nameWithType: Serialization.ReadRawEnumerable<T>(BinaryReader, Func<BinaryReader, T>, int)
+  nameWithType.vb: Serialization.ReadRawEnumerable(Of T)(BinaryReader, Func(Of BinaryReader, T), Integer)
+- uid: S4UDashboard.Model.Serialization.Read``1(System.IO.BinaryReader,System.Func{System.IO.BinaryReader,``0})
+  name: Read<T>(BinaryReader, Func<BinaryReader, T>)
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_Read__1_System_IO_BinaryReader_System_Func_System_IO_BinaryReader___0__
+  commentId: M:S4UDashboard.Model.Serialization.Read``1(System.IO.BinaryReader,System.Func{System.IO.BinaryReader,``0})
+  name.vb: Read(Of T)(BinaryReader, Func(Of BinaryReader, T))
+  fullName: S4UDashboard.Model.Serialization.Read<T>(System.IO.BinaryReader, System.Func<System.IO.BinaryReader, T>)
+  fullName.vb: S4UDashboard.Model.Serialization.Read(Of T)(System.IO.BinaryReader, System.Func(Of System.IO.BinaryReader, T))
+  nameWithType: Serialization.Read<T>(BinaryReader, Func<BinaryReader, T>)
+  nameWithType.vb: Serialization.Read(Of T)(BinaryReader, Func(Of BinaryReader, T))
+- uid: S4UDashboard.Model.Serialization.Write*
+  name: Write
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_Write_
+  commentId: Overload:S4UDashboard.Model.Serialization.Write
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Serialization.Write
+  nameWithType: Serialization.Write
+- uid: S4UDashboard.Model.Serialization.WriteEnumerable*
+  name: WriteEnumerable
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_WriteEnumerable_
+  commentId: Overload:S4UDashboard.Model.Serialization.WriteEnumerable
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Serialization.WriteEnumerable
+  nameWithType: Serialization.WriteEnumerable
+- uid: S4UDashboard.Model.Serialization.WriteEnumerable``1(System.IO.BinaryWriter,System.Action{System.IO.BinaryWriter,``0},System.Collections.Generic.IEnumerable{``0})
+  name: WriteEnumerable<T>(BinaryWriter, Action<BinaryWriter, T>, IEnumerable<T>)
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_WriteEnumerable__1_System_IO_BinaryWriter_System_Action_System_IO_BinaryWriter___0__System_Collections_Generic_IEnumerable___0__
+  commentId: M:S4UDashboard.Model.Serialization.WriteEnumerable``1(System.IO.BinaryWriter,System.Action{System.IO.BinaryWriter,``0},System.Collections.Generic.IEnumerable{``0})
+  name.vb: WriteEnumerable(Of T)(BinaryWriter, Action(Of BinaryWriter, T), IEnumerable(Of T))
+  fullName: S4UDashboard.Model.Serialization.WriteEnumerable<T>(System.IO.BinaryWriter, System.Action<System.IO.BinaryWriter, T>, System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: S4UDashboard.Model.Serialization.WriteEnumerable(Of T)(System.IO.BinaryWriter, System.Action(Of System.IO.BinaryWriter, T), System.Collections.Generic.IEnumerable(Of T))
+  nameWithType: Serialization.WriteEnumerable<T>(BinaryWriter, Action<BinaryWriter, T>, IEnumerable<T>)
+  nameWithType.vb: Serialization.WriteEnumerable(Of T)(BinaryWriter, Action(Of BinaryWriter, T), IEnumerable(Of T))
+- uid: S4UDashboard.Model.Serialization.WriteOptional*
+  name: WriteOptional
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_WriteOptional_
+  commentId: Overload:S4UDashboard.Model.Serialization.WriteOptional
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Serialization.WriteOptional
+  nameWithType: Serialization.WriteOptional
+- uid: S4UDashboard.Model.Serialization.WriteOptionalValue*
+  name: WriteOptionalValue
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_WriteOptionalValue_
+  commentId: Overload:S4UDashboard.Model.Serialization.WriteOptionalValue
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Serialization.WriteOptionalValue
+  nameWithType: Serialization.WriteOptionalValue
+- uid: S4UDashboard.Model.Serialization.WriteOptionalValue``1(System.IO.BinaryWriter,System.Action{System.IO.BinaryWriter,``0},System.Nullable{``0})
+  name: WriteOptionalValue<T>(BinaryWriter, Action<BinaryWriter, T>, T?)
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_WriteOptionalValue__1_System_IO_BinaryWriter_System_Action_System_IO_BinaryWriter___0__System_Nullable___0__
+  commentId: M:S4UDashboard.Model.Serialization.WriteOptionalValue``1(System.IO.BinaryWriter,System.Action{System.IO.BinaryWriter,``0},System.Nullable{``0})
+  name.vb: WriteOptionalValue(Of T)(BinaryWriter, Action(Of BinaryWriter, T), T?)
+  fullName: S4UDashboard.Model.Serialization.WriteOptionalValue<T>(System.IO.BinaryWriter, System.Action<System.IO.BinaryWriter, T>, T?)
+  fullName.vb: S4UDashboard.Model.Serialization.WriteOptionalValue(Of T)(System.IO.BinaryWriter, System.Action(Of System.IO.BinaryWriter, T), T?)
+  nameWithType: Serialization.WriteOptionalValue<T>(BinaryWriter, Action<BinaryWriter, T>, T?)
+  nameWithType.vb: Serialization.WriteOptionalValue(Of T)(BinaryWriter, Action(Of BinaryWriter, T), T?)
+- uid: S4UDashboard.Model.Serialization.WriteOptional``1(System.IO.BinaryWriter,System.Action{System.IO.BinaryWriter,``0},``0)
+  name: WriteOptional<T>(BinaryWriter, Action<BinaryWriter, T>, T?)
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_WriteOptional__1_System_IO_BinaryWriter_System_Action_System_IO_BinaryWriter___0____0_
+  commentId: M:S4UDashboard.Model.Serialization.WriteOptional``1(System.IO.BinaryWriter,System.Action{System.IO.BinaryWriter,``0},``0)
+  name.vb: WriteOptional(Of T)(BinaryWriter, Action(Of BinaryWriter, T), T)
+  fullName: S4UDashboard.Model.Serialization.WriteOptional<T>(System.IO.BinaryWriter, System.Action<System.IO.BinaryWriter, T>, T?)
+  fullName.vb: S4UDashboard.Model.Serialization.WriteOptional(Of T)(System.IO.BinaryWriter, System.Action(Of System.IO.BinaryWriter, T), T)
+  nameWithType: Serialization.WriteOptional<T>(BinaryWriter, Action<BinaryWriter, T>, T?)
+  nameWithType.vb: Serialization.WriteOptional(Of T)(BinaryWriter, Action(Of BinaryWriter, T), T)
+- uid: S4UDashboard.Model.Serialization.WriteRawEnumerable*
+  name: WriteRawEnumerable
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_WriteRawEnumerable_
+  commentId: Overload:S4UDashboard.Model.Serialization.WriteRawEnumerable
+  isSpec: "True"
+  fullName: S4UDashboard.Model.Serialization.WriteRawEnumerable
+  nameWithType: Serialization.WriteRawEnumerable
+- uid: S4UDashboard.Model.Serialization.WriteRawEnumerable``1(System.IO.BinaryWriter,System.Action{System.IO.BinaryWriter,``0},System.Collections.Generic.IEnumerable{``0})
+  name: WriteRawEnumerable<T>(BinaryWriter, Action<BinaryWriter, T>, IEnumerable<T>)
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_WriteRawEnumerable__1_System_IO_BinaryWriter_System_Action_System_IO_BinaryWriter___0__System_Collections_Generic_IEnumerable___0__
+  commentId: M:S4UDashboard.Model.Serialization.WriteRawEnumerable``1(System.IO.BinaryWriter,System.Action{System.IO.BinaryWriter,``0},System.Collections.Generic.IEnumerable{``0})
+  name.vb: WriteRawEnumerable(Of T)(BinaryWriter, Action(Of BinaryWriter, T), IEnumerable(Of T))
+  fullName: S4UDashboard.Model.Serialization.WriteRawEnumerable<T>(System.IO.BinaryWriter, System.Action<System.IO.BinaryWriter, T>, System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: S4UDashboard.Model.Serialization.WriteRawEnumerable(Of T)(System.IO.BinaryWriter, System.Action(Of System.IO.BinaryWriter, T), System.Collections.Generic.IEnumerable(Of T))
+  nameWithType: Serialization.WriteRawEnumerable<T>(BinaryWriter, Action<BinaryWriter, T>, IEnumerable<T>)
+  nameWithType.vb: Serialization.WriteRawEnumerable(Of T)(BinaryWriter, Action(Of BinaryWriter, T), IEnumerable(Of T))
+- uid: S4UDashboard.Model.Serialization.Write``1(System.IO.BinaryWriter,System.Action{System.IO.BinaryWriter,``0},``0)
+  name: Write<T>(BinaryWriter, Action<BinaryWriter, T>, T)
+  href: api/S4UDashboard.Model.Serialization.html#S4UDashboard_Model_Serialization_Write__1_System_IO_BinaryWriter_System_Action_System_IO_BinaryWriter___0____0_
+  commentId: M:S4UDashboard.Model.Serialization.Write``1(System.IO.BinaryWriter,System.Action{System.IO.BinaryWriter,``0},``0)
+  name.vb: Write(Of T)(BinaryWriter, Action(Of BinaryWriter, T), T)
+  fullName: S4UDashboard.Model.Serialization.Write<T>(System.IO.BinaryWriter, System.Action<System.IO.BinaryWriter, T>, T)
+  fullName.vb: S4UDashboard.Model.Serialization.Write(Of T)(System.IO.BinaryWriter, System.Action(Of System.IO.BinaryWriter, T), T)
+  nameWithType: Serialization.Write<T>(BinaryWriter, Action<BinaryWriter, T>, T)
+  nameWithType.vb: Serialization.Write(Of T)(BinaryWriter, Action(Of BinaryWriter, T), T)
+- uid: S4UDashboard.Model.Serializers
+  name: Serializers
+  href: api/S4UDashboard.Model.Serializers.html
+  commentId: T:S4UDashboard.Model.Serializers
+  fullName: S4UDashboard.Model.Serializers
+  nameWithType: Serializers
+- uid: S4UDashboard.Model.Serializers.AnnotatedDataDeserializer
+  name: AnnotatedDataDeserializer
+  href: api/S4UDashboard.Model.Serializers.html#S4UDashboard_Model_Serializers_AnnotatedDataDeserializer
+  commentId: F:S4UDashboard.Model.Serializers.AnnotatedDataDeserializer
+  fullName: S4UDashboard.Model.Serializers.AnnotatedDataDeserializer
+  nameWithType: Serializers.AnnotatedDataDeserializer
+- uid: S4UDashboard.Model.Serializers.AnnotatedDataSerializer
+  name: AnnotatedDataSerializer
+  href: api/S4UDashboard.Model.Serializers.html#S4UDashboard_Model_Serializers_AnnotatedDataSerializer
+  commentId: F:S4UDashboard.Model.Serializers.AnnotatedDataSerializer
+  fullName: S4UDashboard.Model.Serializers.AnnotatedDataSerializer
+  nameWithType: Serializers.AnnotatedDataSerializer
+- uid: S4UDashboard.Model.Serializers.DatasetDeserializer
+  name: DatasetDeserializer
+  href: api/S4UDashboard.Model.Serializers.html#S4UDashboard_Model_Serializers_DatasetDeserializer
+  commentId: F:S4UDashboard.Model.Serializers.DatasetDeserializer
+  fullName: S4UDashboard.Model.Serializers.DatasetDeserializer
+  nameWithType: Serializers.DatasetDeserializer
+- uid: S4UDashboard.Model.Serializers.DatasetSerializer
+  name: DatasetSerializer
+  href: api/S4UDashboard.Model.Serializers.html#S4UDashboard_Model_Serializers_DatasetSerializer
+  commentId: F:S4UDashboard.Model.Serializers.DatasetSerializer
+  fullName: S4UDashboard.Model.Serializers.DatasetSerializer
+  nameWithType: Serializers.DatasetSerializer
+- uid: S4UDashboard.Model.Serializers.LatestFormatVersion
+  name: LatestFormatVersion
+  href: api/S4UDashboard.Model.Serializers.html#S4UDashboard_Model_Serializers_LatestFormatVersion
+  commentId: F:S4UDashboard.Model.Serializers.LatestFormatVersion
+  fullName: S4UDashboard.Model.Serializers.LatestFormatVersion
+  nameWithType: Serializers.LatestFormatVersion
+- uid: S4UDashboard.Model.Serializers.MagicSignature
+  name: MagicSignature
+  href: api/S4UDashboard.Model.Serializers.html#S4UDashboard_Model_Serializers_MagicSignature
+  commentId: F:S4UDashboard.Model.Serializers.MagicSignature
+  fullName: S4UDashboard.Model.Serializers.MagicSignature
+  nameWithType: Serializers.MagicSignature
+- uid: S4UDashboard.Model.Serializers.SensorDataDeserializer
+  name: SensorDataDeserializer
+  href: api/S4UDashboard.Model.Serializers.html#S4UDashboard_Model_Serializers_SensorDataDeserializer
+  commentId: F:S4UDashboard.Model.Serializers.SensorDataDeserializer
+  fullName: S4UDashboard.Model.Serializers.SensorDataDeserializer
+  nameWithType: Serializers.SensorDataDeserializer
+- uid: S4UDashboard.Model.Serializers.SensorDataSerializer
+  name: SensorDataSerializer
+  href: api/S4UDashboard.Model.Serializers.html#S4UDashboard_Model_Serializers_SensorDataSerializer
+  commentId: F:S4UDashboard.Model.Serializers.SensorDataSerializer
+  fullName: S4UDashboard.Model.Serializers.SensorDataSerializer
+  nameWithType: Serializers.SensorDataSerializer
+- uid: S4UDashboard.Model.SortMode
+  name: SortMode
+  href: api/S4UDashboard.Model.SortMode.html
+  commentId: T:S4UDashboard.Model.SortMode
+  fullName: S4UDashboard.Model.SortMode
+  nameWithType: SortMode
+- uid: S4UDashboard.Model.SortMode.Maximum
+  name: Maximum
+  href: api/S4UDashboard.Model.SortMode.html#S4UDashboard_Model_SortMode_Maximum
+  commentId: F:S4UDashboard.Model.SortMode.Maximum
+  fullName: S4UDashboard.Model.SortMode.Maximum
+  nameWithType: SortMode.Maximum
+- uid: S4UDashboard.Model.SortMode.Mean
+  name: Mean
+  href: api/S4UDashboard.Model.SortMode.html#S4UDashboard_Model_SortMode_Mean
+  commentId: F:S4UDashboard.Model.SortMode.Mean
+  fullName: S4UDashboard.Model.SortMode.Mean
+  nameWithType: SortMode.Mean
+- uid: S4UDashboard.Model.SortMode.Measurement
+  name: Measurement
+  href: api/S4UDashboard.Model.SortMode.html#S4UDashboard_Model_SortMode_Measurement
+  commentId: F:S4UDashboard.Model.SortMode.Measurement
+  fullName: S4UDashboard.Model.SortMode.Measurement
+  nameWithType: SortMode.Measurement
+- uid: S4UDashboard.Model.SortMode.Minimum
+  name: Minimum
+  href: api/S4UDashboard.Model.SortMode.html#S4UDashboard_Model_SortMode_Minimum
+  commentId: F:S4UDashboard.Model.SortMode.Minimum
+  fullName: S4UDashboard.Model.SortMode.Minimum
+  nameWithType: SortMode.Minimum
+- uid: S4UDashboard.Model.SortMode.Name
+  name: Name
+  href: api/S4UDashboard.Model.SortMode.html#S4UDashboard_Model_SortMode_Name
+  commentId: F:S4UDashboard.Model.SortMode.Name
+  fullName: S4UDashboard.Model.SortMode.Name
+  nameWithType: SortMode.Name
+- uid: S4UDashboard.Model.SortMode.Unsorted
+  name: Unsorted
+  href: api/S4UDashboard.Model.SortMode.html#S4UDashboard_Model_SortMode_Unsorted
+  commentId: F:S4UDashboard.Model.SortMode.Unsorted
+  fullName: S4UDashboard.Model.SortMode.Unsorted
+  nameWithType: SortMode.Unsorted
+- uid: S4UDashboard.Model.SortedObservableView`1
+  name: SortedObservableView<T>
+  href: api/S4UDashboard.Model.SortedObservableView-1.html
+  commentId: T:S4UDashboard.Model.SortedObservableView`1
+  name.vb: SortedObservableView(Of T)
+  fullName: S4UDashboard.Model.SortedObservableView<T>
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T)
+  nameWithType: SortedObservableView<T>
+  nameWithType.vb: SortedObservableView(Of T)
+- uid: S4UDashboard.Model.SortedObservableView`1.#ctor(System.Collections.Generic.List{`0})
+  name: SortedObservableView(List<T>)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1__ctor_System_Collections_Generic_List__0__
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.#ctor(System.Collections.Generic.List{`0})
+  name.vb: New(List(Of T))
+  fullName: S4UDashboard.Model.SortedObservableView<T>.SortedObservableView(System.Collections.Generic.List<T>)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).New(System.Collections.Generic.List(Of T))
+  nameWithType: SortedObservableView<T>.SortedObservableView(List<T>)
+  nameWithType.vb: SortedObservableView(Of T).New(List(Of T))
+- uid: S4UDashboard.Model.SortedObservableView`1.#ctor*
+  name: SortedObservableView
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1__ctor_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.Model.SortedObservableView<T>.SortedObservableView
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).New
+  nameWithType: SortedObservableView<T>.SortedObservableView
+  nameWithType.vb: SortedObservableView(Of T).New
+- uid: S4UDashboard.Model.SortedObservableView`1.Add(System.Object)
+  name: Add(object?)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Add_System_Object_
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.Add(System.Object)
+  name.vb: Add(Object)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Add(object?)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Add(Object)
+  nameWithType: SortedObservableView<T>.Add(object?)
+  nameWithType.vb: SortedObservableView(Of T).Add(Object)
+- uid: S4UDashboard.Model.SortedObservableView`1.Add(`0)
+  name: Add(T)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Add__0_
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.Add(`0)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Add(T)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Add(T)
+  nameWithType: SortedObservableView<T>.Add(T)
+  nameWithType.vb: SortedObservableView(Of T).Add(T)
+- uid: S4UDashboard.Model.SortedObservableView`1.Add*
+  name: Add
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Add_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.Add
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Add
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Add
+  nameWithType: SortedObservableView<T>.Add
+  nameWithType.vb: SortedObservableView(Of T).Add
+- uid: S4UDashboard.Model.SortedObservableView`1.Clear
+  name: Clear()
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Clear
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.Clear
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Clear()
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Clear()
+  nameWithType: SortedObservableView<T>.Clear()
+  nameWithType.vb: SortedObservableView(Of T).Clear()
+- uid: S4UDashboard.Model.SortedObservableView`1.Clear*
+  name: Clear
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Clear_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.Clear
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Clear
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Clear
+  nameWithType: SortedObservableView<T>.Clear
+  nameWithType.vb: SortedObservableView(Of T).Clear
+- uid: S4UDashboard.Model.SortedObservableView`1.CollectionChanged
+  name: CollectionChanged
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_CollectionChanged
+  commentId: E:S4UDashboard.Model.SortedObservableView`1.CollectionChanged
+  fullName: S4UDashboard.Model.SortedObservableView<T>.CollectionChanged
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).CollectionChanged
+  nameWithType: SortedObservableView<T>.CollectionChanged
+  nameWithType.vb: SortedObservableView(Of T).CollectionChanged
+- uid: S4UDashboard.Model.SortedObservableView`1.Contains(System.Object)
+  name: Contains(object?)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Contains_System_Object_
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.Contains(System.Object)
+  name.vb: Contains(Object)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Contains(object?)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Contains(Object)
+  nameWithType: SortedObservableView<T>.Contains(object?)
+  nameWithType.vb: SortedObservableView(Of T).Contains(Object)
+- uid: S4UDashboard.Model.SortedObservableView`1.Contains(`0)
+  name: Contains(T)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Contains__0_
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.Contains(`0)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Contains(T)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Contains(T)
+  nameWithType: SortedObservableView<T>.Contains(T)
+  nameWithType.vb: SortedObservableView(Of T).Contains(T)
+- uid: S4UDashboard.Model.SortedObservableView`1.Contains*
+  name: Contains
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Contains_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.Contains
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Contains
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Contains
+  nameWithType: SortedObservableView<T>.Contains
+  nameWithType.vb: SortedObservableView(Of T).Contains
+- uid: S4UDashboard.Model.SortedObservableView`1.CopyTo(System.Array,System.Int32)
+  name: CopyTo(Array, int)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_CopyTo_System_Array_System_Int32_
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.CopyTo(System.Array,System.Int32)
+  name.vb: CopyTo(Array, Integer)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.CopyTo(System.Array, int)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).CopyTo(System.Array, Integer)
+  nameWithType: SortedObservableView<T>.CopyTo(Array, int)
+  nameWithType.vb: SortedObservableView(Of T).CopyTo(Array, Integer)
+- uid: S4UDashboard.Model.SortedObservableView`1.CopyTo(`0[],System.Int32)
+  name: CopyTo(T[], int)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_CopyTo__0___System_Int32_
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.CopyTo(`0[],System.Int32)
+  name.vb: CopyTo(T(), Integer)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.CopyTo(T[], int)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).CopyTo(T(), Integer)
+  nameWithType: SortedObservableView<T>.CopyTo(T[], int)
+  nameWithType.vb: SortedObservableView(Of T).CopyTo(T(), Integer)
+- uid: S4UDashboard.Model.SortedObservableView`1.CopyTo*
+  name: CopyTo
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_CopyTo_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.CopyTo
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.CopyTo
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).CopyTo
+  nameWithType: SortedObservableView<T>.CopyTo
+  nameWithType.vb: SortedObservableView(Of T).CopyTo
+- uid: S4UDashboard.Model.SortedObservableView`1.Count
+  name: Count
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Count
+  commentId: P:S4UDashboard.Model.SortedObservableView`1.Count
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Count
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Count
+  nameWithType: SortedObservableView<T>.Count
+  nameWithType.vb: SortedObservableView(Of T).Count
+- uid: S4UDashboard.Model.SortedObservableView`1.Count*
+  name: Count
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Count_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.Count
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Count
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Count
+  nameWithType: SortedObservableView<T>.Count
+  nameWithType.vb: SortedObservableView(Of T).Count
+- uid: S4UDashboard.Model.SortedObservableView`1.GetEnumerator
+  name: GetEnumerator()
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_GetEnumerator
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.GetEnumerator
+  fullName: S4UDashboard.Model.SortedObservableView<T>.GetEnumerator()
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).GetEnumerator()
+  nameWithType: SortedObservableView<T>.GetEnumerator()
+  nameWithType.vb: SortedObservableView(Of T).GetEnumerator()
+- uid: S4UDashboard.Model.SortedObservableView`1.GetEnumerator*
+  name: GetEnumerator
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_GetEnumerator_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.GetEnumerator
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.GetEnumerator
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).GetEnumerator
+  nameWithType: SortedObservableView<T>.GetEnumerator
+  nameWithType.vb: SortedObservableView(Of T).GetEnumerator
+- uid: S4UDashboard.Model.SortedObservableView`1.Impose
+  name: Impose()
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Impose
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.Impose
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Impose()
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Impose()
+  nameWithType: SortedObservableView<T>.Impose()
+  nameWithType.vb: SortedObservableView(Of T).Impose()
+- uid: S4UDashboard.Model.SortedObservableView`1.Impose*
+  name: Impose
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Impose_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.Impose
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Impose
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Impose
+  nameWithType: SortedObservableView<T>.Impose
+  nameWithType.vb: SortedObservableView(Of T).Impose
+- uid: S4UDashboard.Model.SortedObservableView`1.IndexOf(System.Object)
+  name: IndexOf(object?)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_IndexOf_System_Object_
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.IndexOf(System.Object)
+  name.vb: IndexOf(Object)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.IndexOf(object?)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).IndexOf(Object)
+  nameWithType: SortedObservableView<T>.IndexOf(object?)
+  nameWithType.vb: SortedObservableView(Of T).IndexOf(Object)
+- uid: S4UDashboard.Model.SortedObservableView`1.IndexOf(`0)
+  name: IndexOf(T)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_IndexOf__0_
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.IndexOf(`0)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.IndexOf(T)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).IndexOf(T)
+  nameWithType: SortedObservableView<T>.IndexOf(T)
+  nameWithType.vb: SortedObservableView(Of T).IndexOf(T)
+- uid: S4UDashboard.Model.SortedObservableView`1.IndexOf*
+  name: IndexOf
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_IndexOf_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.IndexOf
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.IndexOf
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).IndexOf
+  nameWithType: SortedObservableView<T>.IndexOf
+  nameWithType.vb: SortedObservableView(Of T).IndexOf
+- uid: S4UDashboard.Model.SortedObservableView`1.Insert(System.Int32,System.Object)
+  name: Insert(int, object?)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Insert_System_Int32_System_Object_
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.Insert(System.Int32,System.Object)
+  name.vb: Insert(Integer, Object)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Insert(int, object?)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Insert(Integer, Object)
+  nameWithType: SortedObservableView<T>.Insert(int, object?)
+  nameWithType.vb: SortedObservableView(Of T).Insert(Integer, Object)
+- uid: S4UDashboard.Model.SortedObservableView`1.Insert(System.Int32,`0)
+  name: Insert(int, T)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Insert_System_Int32__0_
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.Insert(System.Int32,`0)
+  name.vb: Insert(Integer, T)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Insert(int, T)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Insert(Integer, T)
+  nameWithType: SortedObservableView<T>.Insert(int, T)
+  nameWithType.vb: SortedObservableView(Of T).Insert(Integer, T)
+- uid: S4UDashboard.Model.SortedObservableView`1.Insert*
+  name: Insert
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Insert_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.Insert
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Insert
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Insert
+  nameWithType: SortedObservableView<T>.Insert
+  nameWithType.vb: SortedObservableView(Of T).Insert
+- uid: S4UDashboard.Model.SortedObservableView`1.IsFixedSize
+  name: IsFixedSize
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_IsFixedSize
+  commentId: P:S4UDashboard.Model.SortedObservableView`1.IsFixedSize
+  fullName: S4UDashboard.Model.SortedObservableView<T>.IsFixedSize
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).IsFixedSize
+  nameWithType: SortedObservableView<T>.IsFixedSize
+  nameWithType.vb: SortedObservableView(Of T).IsFixedSize
+- uid: S4UDashboard.Model.SortedObservableView`1.IsFixedSize*
+  name: IsFixedSize
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_IsFixedSize_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.IsFixedSize
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.IsFixedSize
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).IsFixedSize
+  nameWithType: SortedObservableView<T>.IsFixedSize
+  nameWithType.vb: SortedObservableView(Of T).IsFixedSize
+- uid: S4UDashboard.Model.SortedObservableView`1.IsReadOnly
+  name: IsReadOnly
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_IsReadOnly
+  commentId: P:S4UDashboard.Model.SortedObservableView`1.IsReadOnly
+  fullName: S4UDashboard.Model.SortedObservableView<T>.IsReadOnly
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).IsReadOnly
+  nameWithType: SortedObservableView<T>.IsReadOnly
+  nameWithType.vb: SortedObservableView(Of T).IsReadOnly
+- uid: S4UDashboard.Model.SortedObservableView`1.IsReadOnly*
+  name: IsReadOnly
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_IsReadOnly_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.IsReadOnly
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.IsReadOnly
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).IsReadOnly
+  nameWithType: SortedObservableView<T>.IsReadOnly
+  nameWithType.vb: SortedObservableView(Of T).IsReadOnly
+- uid: S4UDashboard.Model.SortedObservableView`1.IsSynchronized
+  name: IsSynchronized
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_IsSynchronized
+  commentId: P:S4UDashboard.Model.SortedObservableView`1.IsSynchronized
+  fullName: S4UDashboard.Model.SortedObservableView<T>.IsSynchronized
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).IsSynchronized
+  nameWithType: SortedObservableView<T>.IsSynchronized
+  nameWithType.vb: SortedObservableView(Of T).IsSynchronized
+- uid: S4UDashboard.Model.SortedObservableView`1.IsSynchronized*
+  name: IsSynchronized
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_IsSynchronized_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.IsSynchronized
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.IsSynchronized
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).IsSynchronized
+  nameWithType: SortedObservableView<T>.IsSynchronized
+  nameWithType.vb: SortedObservableView(Of T).IsSynchronized
+- uid: S4UDashboard.Model.SortedObservableView`1.Item(System.Int32)
+  name: this[int]
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Item_System_Int32_
+  commentId: P:S4UDashboard.Model.SortedObservableView`1.Item(System.Int32)
+  name.vb: this[](Integer)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.this[int]
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).this[](Integer)
+  nameWithType: SortedObservableView<T>.this[int]
+  nameWithType.vb: SortedObservableView(Of T).this[](Integer)
+- uid: S4UDashboard.Model.SortedObservableView`1.Item*
+  name: this
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Item_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.Item
+  isSpec: "True"
+  name.vb: this[]
+  fullName: S4UDashboard.Model.SortedObservableView<T>.this
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).this[]
+  nameWithType: SortedObservableView<T>.this
+  nameWithType.vb: SortedObservableView(Of T).this[]
+- uid: S4UDashboard.Model.SortedObservableView`1.Order
+  name: Order
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Order
+  commentId: P:S4UDashboard.Model.SortedObservableView`1.Order
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Order
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Order
+  nameWithType: SortedObservableView<T>.Order
+  nameWithType.vb: SortedObservableView(Of T).Order
+- uid: S4UDashboard.Model.SortedObservableView`1.Order*
+  name: Order
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Order_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.Order
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Order
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Order
+  nameWithType: SortedObservableView<T>.Order
+  nameWithType.vb: SortedObservableView(Of T).Order
+- uid: S4UDashboard.Model.SortedObservableView`1.PropertyChanged
+  name: PropertyChanged
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_PropertyChanged
+  commentId: E:S4UDashboard.Model.SortedObservableView`1.PropertyChanged
+  fullName: S4UDashboard.Model.SortedObservableView<T>.PropertyChanged
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).PropertyChanged
+  nameWithType: SortedObservableView<T>.PropertyChanged
+  nameWithType.vb: SortedObservableView(Of T).PropertyChanged
+- uid: S4UDashboard.Model.SortedObservableView`1.Remove(System.Object)
+  name: Remove(object?)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Remove_System_Object_
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.Remove(System.Object)
+  name.vb: Remove(Object)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Remove(object?)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Remove(Object)
+  nameWithType: SortedObservableView<T>.Remove(object?)
+  nameWithType.vb: SortedObservableView(Of T).Remove(Object)
+- uid: S4UDashboard.Model.SortedObservableView`1.Remove(`0)
+  name: Remove(T)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Remove__0_
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.Remove(`0)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Remove(T)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Remove(T)
+  nameWithType: SortedObservableView<T>.Remove(T)
+  nameWithType.vb: SortedObservableView(Of T).Remove(T)
+- uid: S4UDashboard.Model.SortedObservableView`1.Remove*
+  name: Remove
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Remove_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.Remove
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Remove
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Remove
+  nameWithType: SortedObservableView<T>.Remove
+  nameWithType.vb: SortedObservableView(Of T).Remove
+- uid: S4UDashboard.Model.SortedObservableView`1.RemoveAt(System.Int32)
+  name: RemoveAt(int)
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_RemoveAt_System_Int32_
+  commentId: M:S4UDashboard.Model.SortedObservableView`1.RemoveAt(System.Int32)
+  name.vb: RemoveAt(Integer)
+  fullName: S4UDashboard.Model.SortedObservableView<T>.RemoveAt(int)
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).RemoveAt(Integer)
+  nameWithType: SortedObservableView<T>.RemoveAt(int)
+  nameWithType.vb: SortedObservableView(Of T).RemoveAt(Integer)
+- uid: S4UDashboard.Model.SortedObservableView`1.RemoveAt*
+  name: RemoveAt
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_RemoveAt_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.RemoveAt
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.RemoveAt
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).RemoveAt
+  nameWithType: SortedObservableView<T>.RemoveAt
+  nameWithType.vb: SortedObservableView(Of T).RemoveAt
+- uid: S4UDashboard.Model.SortedObservableView`1.Selector
+  name: Selector
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Selector
+  commentId: P:S4UDashboard.Model.SortedObservableView`1.Selector
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Selector
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Selector
+  nameWithType: SortedObservableView<T>.Selector
+  nameWithType.vb: SortedObservableView(Of T).Selector
+- uid: S4UDashboard.Model.SortedObservableView`1.Selector*
+  name: Selector
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_Selector_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.Selector
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.Selector
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).Selector
+  nameWithType: SortedObservableView<T>.Selector
+  nameWithType.vb: SortedObservableView(Of T).Selector
+- uid: S4UDashboard.Model.SortedObservableView`1.SyncRoot
+  name: SyncRoot
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_SyncRoot
+  commentId: P:S4UDashboard.Model.SortedObservableView`1.SyncRoot
+  fullName: S4UDashboard.Model.SortedObservableView<T>.SyncRoot
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).SyncRoot
+  nameWithType: SortedObservableView<T>.SyncRoot
+  nameWithType.vb: SortedObservableView(Of T).SyncRoot
+- uid: S4UDashboard.Model.SortedObservableView`1.SyncRoot*
+  name: SyncRoot
+  href: api/S4UDashboard.Model.SortedObservableView-1.html#S4UDashboard_Model_SortedObservableView_1_SyncRoot_
+  commentId: Overload:S4UDashboard.Model.SortedObservableView`1.SyncRoot
+  isSpec: "True"
+  fullName: S4UDashboard.Model.SortedObservableView<T>.SyncRoot
+  fullName.vb: S4UDashboard.Model.SortedObservableView(Of T).SyncRoot
+  nameWithType: SortedObservableView<T>.SyncRoot
+  nameWithType.vb: SortedObservableView(Of T).SyncRoot
+- uid: S4UDashboard.Model.UnnamedLocation
+  name: UnnamedLocation
+  href: api/S4UDashboard.Model.UnnamedLocation.html
+  commentId: T:S4UDashboard.Model.UnnamedLocation
+  fullName: S4UDashboard.Model.UnnamedLocation
+  nameWithType: UnnamedLocation
+- uid: S4UDashboard.Model.UnnamedLocation.IsPhysical
+  name: IsPhysical
+  href: api/S4UDashboard.Model.UnnamedLocation.html#S4UDashboard_Model_UnnamedLocation_IsPhysical
+  commentId: P:S4UDashboard.Model.UnnamedLocation.IsPhysical
+  fullName: S4UDashboard.Model.UnnamedLocation.IsPhysical
+  nameWithType: UnnamedLocation.IsPhysical
+- uid: S4UDashboard.Model.UnnamedLocation.IsPhysical*
+  name: IsPhysical
+  href: api/S4UDashboard.Model.UnnamedLocation.html#S4UDashboard_Model_UnnamedLocation_IsPhysical_
+  commentId: Overload:S4UDashboard.Model.UnnamedLocation.IsPhysical
+  isSpec: "True"
+  fullName: S4UDashboard.Model.UnnamedLocation.IsPhysical
+  nameWithType: UnnamedLocation.IsPhysical
+- uid: S4UDashboard.Model.UnnamedLocation.LocationHint
+  name: LocationHint
+  href: api/S4UDashboard.Model.UnnamedLocation.html#S4UDashboard_Model_UnnamedLocation_LocationHint
+  commentId: P:S4UDashboard.Model.UnnamedLocation.LocationHint
+  fullName: S4UDashboard.Model.UnnamedLocation.LocationHint
+  nameWithType: UnnamedLocation.LocationHint
+- uid: S4UDashboard.Model.UnnamedLocation.LocationHint*
+  name: LocationHint
+  href: api/S4UDashboard.Model.UnnamedLocation.html#S4UDashboard_Model_UnnamedLocation_LocationHint_
+  commentId: Overload:S4UDashboard.Model.UnnamedLocation.LocationHint
+  isSpec: "True"
+  fullName: S4UDashboard.Model.UnnamedLocation.LocationHint
+  nameWithType: UnnamedLocation.LocationHint
+- uid: S4UDashboard.Model.UnnamedLocation.OpenReadStream
+  name: OpenReadStream()
+  href: api/S4UDashboard.Model.UnnamedLocation.html#S4UDashboard_Model_UnnamedLocation_OpenReadStream
+  commentId: M:S4UDashboard.Model.UnnamedLocation.OpenReadStream
+  fullName: S4UDashboard.Model.UnnamedLocation.OpenReadStream()
+  nameWithType: UnnamedLocation.OpenReadStream()
+- uid: S4UDashboard.Model.UnnamedLocation.OpenReadStream*
+  name: OpenReadStream
+  href: api/S4UDashboard.Model.UnnamedLocation.html#S4UDashboard_Model_UnnamedLocation_OpenReadStream_
+  commentId: Overload:S4UDashboard.Model.UnnamedLocation.OpenReadStream
+  isSpec: "True"
+  fullName: S4UDashboard.Model.UnnamedLocation.OpenReadStream
+  nameWithType: UnnamedLocation.OpenReadStream
+- uid: S4UDashboard.Model.UnnamedLocation.OpenWriteStream
+  name: OpenWriteStream()
+  href: api/S4UDashboard.Model.UnnamedLocation.html#S4UDashboard_Model_UnnamedLocation_OpenWriteStream
+  commentId: M:S4UDashboard.Model.UnnamedLocation.OpenWriteStream
+  fullName: S4UDashboard.Model.UnnamedLocation.OpenWriteStream()
+  nameWithType: UnnamedLocation.OpenWriteStream()
+- uid: S4UDashboard.Model.UnnamedLocation.OpenWriteStream*
+  name: OpenWriteStream
+  href: api/S4UDashboard.Model.UnnamedLocation.html#S4UDashboard_Model_UnnamedLocation_OpenWriteStream_
+  commentId: Overload:S4UDashboard.Model.UnnamedLocation.OpenWriteStream
+  isSpec: "True"
+  fullName: S4UDashboard.Model.UnnamedLocation.OpenWriteStream
+  nameWithType: UnnamedLocation.OpenWriteStream
+- uid: S4UDashboard.Reactive
+  name: S4UDashboard.Reactive
+  href: api/S4UDashboard.Reactive.html
+  commentId: N:S4UDashboard.Reactive
+  fullName: S4UDashboard.Reactive
+  nameWithType: S4UDashboard.Reactive
+- uid: S4UDashboard.Reactive.ComputedCell`1
+  name: ComputedCell<T>
+  href: api/S4UDashboard.Reactive.ComputedCell-1.html
+  commentId: T:S4UDashboard.Reactive.ComputedCell`1
+  name.vb: ComputedCell(Of T)
+  fullName: S4UDashboard.Reactive.ComputedCell<T>
+  fullName.vb: S4UDashboard.Reactive.ComputedCell(Of T)
+  nameWithType: ComputedCell<T>
+  nameWithType.vb: ComputedCell(Of T)
+- uid: S4UDashboard.Reactive.ComputedCell`1.#ctor(System.Func{`0})
+  name: ComputedCell(Func<T>)
+  href: api/S4UDashboard.Reactive.ComputedCell-1.html#S4UDashboard_Reactive_ComputedCell_1__ctor_System_Func__0__
+  commentId: M:S4UDashboard.Reactive.ComputedCell`1.#ctor(System.Func{`0})
+  name.vb: New(Func(Of T))
+  fullName: S4UDashboard.Reactive.ComputedCell<T>.ComputedCell(System.Func<T>)
+  fullName.vb: S4UDashboard.Reactive.ComputedCell(Of T).New(System.Func(Of T))
+  nameWithType: ComputedCell<T>.ComputedCell(Func<T>)
+  nameWithType.vb: ComputedCell(Of T).New(Func(Of T))
+- uid: S4UDashboard.Reactive.ComputedCell`1.#ctor*
+  name: ComputedCell
+  href: api/S4UDashboard.Reactive.ComputedCell-1.html#S4UDashboard_Reactive_ComputedCell_1__ctor_
+  commentId: Overload:S4UDashboard.Reactive.ComputedCell`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.Reactive.ComputedCell<T>.ComputedCell
+  fullName.vb: S4UDashboard.Reactive.ComputedCell(Of T).New
+  nameWithType: ComputedCell<T>.ComputedCell
+  nameWithType.vb: ComputedCell(Of T).New
+- uid: S4UDashboard.Reactive.ComputedCell`1.PropertyChanged
+  name: PropertyChanged
+  href: api/S4UDashboard.Reactive.ComputedCell-1.html#S4UDashboard_Reactive_ComputedCell_1_PropertyChanged
+  commentId: E:S4UDashboard.Reactive.ComputedCell`1.PropertyChanged
+  fullName: S4UDashboard.Reactive.ComputedCell<T>.PropertyChanged
+  fullName.vb: S4UDashboard.Reactive.ComputedCell(Of T).PropertyChanged
+  nameWithType: ComputedCell<T>.PropertyChanged
+  nameWithType.vb: ComputedCell(Of T).PropertyChanged
+- uid: S4UDashboard.Reactive.ComputedCell`1.Value
+  name: Value
+  href: api/S4UDashboard.Reactive.ComputedCell-1.html#S4UDashboard_Reactive_ComputedCell_1_Value
+  commentId: P:S4UDashboard.Reactive.ComputedCell`1.Value
+  fullName: S4UDashboard.Reactive.ComputedCell<T>.Value
+  fullName.vb: S4UDashboard.Reactive.ComputedCell(Of T).Value
+  nameWithType: ComputedCell<T>.Value
+  nameWithType.vb: ComputedCell(Of T).Value
+- uid: S4UDashboard.Reactive.ComputedCell`1.Value*
+  name: Value
+  href: api/S4UDashboard.Reactive.ComputedCell-1.html#S4UDashboard_Reactive_ComputedCell_1_Value_
+  commentId: Overload:S4UDashboard.Reactive.ComputedCell`1.Value
+  isSpec: "True"
+  fullName: S4UDashboard.Reactive.ComputedCell<T>.Value
+  fullName.vb: S4UDashboard.Reactive.ComputedCell(Of T).Value
+  nameWithType: ComputedCell<T>.Value
+  nameWithType.vb: ComputedCell(Of T).Value
+- uid: S4UDashboard.Reactive.EffectManager
+  name: EffectManager
+  href: api/S4UDashboard.Reactive.EffectManager.html
+  commentId: T:S4UDashboard.Reactive.EffectManager
+  fullName: S4UDashboard.Reactive.EffectManager
+  nameWithType: EffectManager
+- uid: S4UDashboard.Reactive.EffectManager.GapEffectTracking(System.Action)
+  name: GapEffectTracking(Action)
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_GapEffectTracking_System_Action_
+  commentId: M:S4UDashboard.Reactive.EffectManager.GapEffectTracking(System.Action)
+  fullName: S4UDashboard.Reactive.EffectManager.GapEffectTracking(System.Action)
+  nameWithType: EffectManager.GapEffectTracking(Action)
+- uid: S4UDashboard.Reactive.EffectManager.GapEffectTracking*
+  name: GapEffectTracking
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_GapEffectTracking_
+  commentId: Overload:S4UDashboard.Reactive.EffectManager.GapEffectTracking
+  isSpec: "True"
+  fullName: S4UDashboard.Reactive.EffectManager.GapEffectTracking
+  nameWithType: EffectManager.GapEffectTracking
+- uid: S4UDashboard.Reactive.EffectManager.ShimPropertyChanged(System.ComponentModel.INotifyPropertyChanged)
+  name: ShimPropertyChanged(INotifyPropertyChanged)
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_ShimPropertyChanged_System_ComponentModel_INotifyPropertyChanged_
+  commentId: M:S4UDashboard.Reactive.EffectManager.ShimPropertyChanged(System.ComponentModel.INotifyPropertyChanged)
+  fullName: S4UDashboard.Reactive.EffectManager.ShimPropertyChanged(System.ComponentModel.INotifyPropertyChanged)
+  nameWithType: EffectManager.ShimPropertyChanged(INotifyPropertyChanged)
+- uid: S4UDashboard.Reactive.EffectManager.ShimPropertyChanged*
+  name: ShimPropertyChanged
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_ShimPropertyChanged_
+  commentId: Overload:S4UDashboard.Reactive.EffectManager.ShimPropertyChanged
+  isSpec: "True"
+  fullName: S4UDashboard.Reactive.EffectManager.ShimPropertyChanged
+  nameWithType: EffectManager.ShimPropertyChanged
+- uid: S4UDashboard.Reactive.EffectManager.Track(System.Object,System.String)
+  name: Track(object, string)
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_Track_System_Object_System_String_
+  commentId: M:S4UDashboard.Reactive.EffectManager.Track(System.Object,System.String)
+  name.vb: Track(Object, String)
+  fullName: S4UDashboard.Reactive.EffectManager.Track(object, string)
+  fullName.vb: S4UDashboard.Reactive.EffectManager.Track(Object, String)
+  nameWithType: EffectManager.Track(object, string)
+  nameWithType.vb: EffectManager.Track(Object, String)
+- uid: S4UDashboard.Reactive.EffectManager.Track*
+  name: Track
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_Track_
+  commentId: Overload:S4UDashboard.Reactive.EffectManager.Track
+  isSpec: "True"
+  fullName: S4UDashboard.Reactive.EffectManager.Track
+  nameWithType: EffectManager.Track
+- uid: S4UDashboard.Reactive.EffectManager.Trigger(System.Object,System.String)
+  name: Trigger(object, string)
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_Trigger_System_Object_System_String_
+  commentId: M:S4UDashboard.Reactive.EffectManager.Trigger(System.Object,System.String)
+  name.vb: Trigger(Object, String)
+  fullName: S4UDashboard.Reactive.EffectManager.Trigger(object, string)
+  fullName.vb: S4UDashboard.Reactive.EffectManager.Trigger(Object, String)
+  nameWithType: EffectManager.Trigger(object, string)
+  nameWithType.vb: EffectManager.Trigger(Object, String)
+- uid: S4UDashboard.Reactive.EffectManager.Trigger*
+  name: Trigger
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_Trigger_
+  commentId: Overload:S4UDashboard.Reactive.EffectManager.Trigger
+  isSpec: "True"
+  fullName: S4UDashboard.Reactive.EffectManager.Trigger
+  nameWithType: EffectManager.Trigger
+- uid: S4UDashboard.Reactive.EffectManager.Watch(System.Action,System.Action)
+  name: Watch(Action, Action)
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_Watch_System_Action_System_Action_
+  commentId: M:S4UDashboard.Reactive.EffectManager.Watch(System.Action,System.Action)
+  fullName: S4UDashboard.Reactive.EffectManager.Watch(System.Action, System.Action)
+  nameWithType: EffectManager.Watch(Action, Action)
+- uid: S4UDashboard.Reactive.EffectManager.Watch(System.Delegate[],System.Delegate)
+  name: Watch(Delegate[], Delegate)
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_Watch_System_Delegate___System_Delegate_
+  commentId: M:S4UDashboard.Reactive.EffectManager.Watch(System.Delegate[],System.Delegate)
+  name.vb: Watch(Delegate(), Delegate)
+  fullName: S4UDashboard.Reactive.EffectManager.Watch(System.Delegate[], System.Delegate)
+  fullName.vb: S4UDashboard.Reactive.EffectManager.Watch(System.Delegate(), System.Delegate)
+  nameWithType: EffectManager.Watch(Delegate[], Delegate)
+  nameWithType.vb: EffectManager.Watch(Delegate(), Delegate)
+- uid: S4UDashboard.Reactive.EffectManager.Watch*
+  name: Watch
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_Watch_
+  commentId: Overload:S4UDashboard.Reactive.EffectManager.Watch
+  isSpec: "True"
+  fullName: S4UDashboard.Reactive.EffectManager.Watch
+  nameWithType: EffectManager.Watch
+- uid: S4UDashboard.Reactive.EffectManager.WatchEffect(System.Action)
+  name: WatchEffect(Action)
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_WatchEffect_System_Action_
+  commentId: M:S4UDashboard.Reactive.EffectManager.WatchEffect(System.Action)
+  fullName: S4UDashboard.Reactive.EffectManager.WatchEffect(System.Action)
+  nameWithType: EffectManager.WatchEffect(Action)
+- uid: S4UDashboard.Reactive.EffectManager.WatchEffect*
+  name: WatchEffect
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_WatchEffect_
+  commentId: Overload:S4UDashboard.Reactive.EffectManager.WatchEffect
+  isSpec: "True"
+  fullName: S4UDashboard.Reactive.EffectManager.WatchEffect
+  nameWithType: EffectManager.WatchEffect
+- uid: S4UDashboard.Reactive.EffectManager.Watch``1(System.Func{``0},System.Action{``0})
+  name: Watch<T>(Func<T>, Action<T>)
+  href: api/S4UDashboard.Reactive.EffectManager.html#S4UDashboard_Reactive_EffectManager_Watch__1_System_Func___0__System_Action___0__
+  commentId: M:S4UDashboard.Reactive.EffectManager.Watch``1(System.Func{``0},System.Action{``0})
+  name.vb: Watch(Of T)(Func(Of T), Action(Of T))
+  fullName: S4UDashboard.Reactive.EffectManager.Watch<T>(System.Func<T>, System.Action<T>)
+  fullName.vb: S4UDashboard.Reactive.EffectManager.Watch(Of T)(System.Func(Of T), System.Action(Of T))
+  nameWithType: EffectManager.Watch<T>(Func<T>, Action<T>)
+  nameWithType.vb: EffectManager.Watch(Of T)(Func(Of T), Action(Of T))
+- uid: S4UDashboard.Reactive.ReactiveCell`1
+  name: ReactiveCell<T>
+  href: api/S4UDashboard.Reactive.ReactiveCell-1.html
+  commentId: T:S4UDashboard.Reactive.ReactiveCell`1
+  name.vb: ReactiveCell(Of T)
+  fullName: S4UDashboard.Reactive.ReactiveCell<T>
+  fullName.vb: S4UDashboard.Reactive.ReactiveCell(Of T)
+  nameWithType: ReactiveCell<T>
+  nameWithType.vb: ReactiveCell(Of T)
+- uid: S4UDashboard.Reactive.ReactiveCell`1.#ctor(`0)
+  name: ReactiveCell(T)
+  href: api/S4UDashboard.Reactive.ReactiveCell-1.html#S4UDashboard_Reactive_ReactiveCell_1__ctor__0_
+  commentId: M:S4UDashboard.Reactive.ReactiveCell`1.#ctor(`0)
+  name.vb: New(T)
+  fullName: S4UDashboard.Reactive.ReactiveCell<T>.ReactiveCell(T)
+  fullName.vb: S4UDashboard.Reactive.ReactiveCell(Of T).New(T)
+  nameWithType: ReactiveCell<T>.ReactiveCell(T)
+  nameWithType.vb: ReactiveCell(Of T).New(T)
+- uid: S4UDashboard.Reactive.ReactiveCell`1.#ctor*
+  name: ReactiveCell
+  href: api/S4UDashboard.Reactive.ReactiveCell-1.html#S4UDashboard_Reactive_ReactiveCell_1__ctor_
+  commentId: Overload:S4UDashboard.Reactive.ReactiveCell`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.Reactive.ReactiveCell<T>.ReactiveCell
+  fullName.vb: S4UDashboard.Reactive.ReactiveCell(Of T).New
+  nameWithType: ReactiveCell<T>.ReactiveCell
+  nameWithType.vb: ReactiveCell(Of T).New
+- uid: S4UDashboard.Reactive.ReactiveCell`1.PropertyChanged
+  name: PropertyChanged
+  href: api/S4UDashboard.Reactive.ReactiveCell-1.html#S4UDashboard_Reactive_ReactiveCell_1_PropertyChanged
+  commentId: E:S4UDashboard.Reactive.ReactiveCell`1.PropertyChanged
+  fullName: S4UDashboard.Reactive.ReactiveCell<T>.PropertyChanged
+  fullName.vb: S4UDashboard.Reactive.ReactiveCell(Of T).PropertyChanged
+  nameWithType: ReactiveCell<T>.PropertyChanged
+  nameWithType.vb: ReactiveCell(Of T).PropertyChanged
+- uid: S4UDashboard.Reactive.ReactiveCell`1.Value
+  name: Value
+  href: api/S4UDashboard.Reactive.ReactiveCell-1.html#S4UDashboard_Reactive_ReactiveCell_1_Value
+  commentId: P:S4UDashboard.Reactive.ReactiveCell`1.Value
+  fullName: S4UDashboard.Reactive.ReactiveCell<T>.Value
+  fullName.vb: S4UDashboard.Reactive.ReactiveCell(Of T).Value
+  nameWithType: ReactiveCell<T>.Value
+  nameWithType.vb: ReactiveCell(Of T).Value
+- uid: S4UDashboard.Reactive.ReactiveCell`1.Value*
+  name: Value
+  href: api/S4UDashboard.Reactive.ReactiveCell-1.html#S4UDashboard_Reactive_ReactiveCell_1_Value_
+  commentId: Overload:S4UDashboard.Reactive.ReactiveCell`1.Value
+  isSpec: "True"
+  fullName: S4UDashboard.Reactive.ReactiveCell<T>.Value
+  fullName.vb: S4UDashboard.Reactive.ReactiveCell(Of T).Value
+  nameWithType: ReactiveCell<T>.Value
+  nameWithType.vb: ReactiveCell(Of T).Value
+- uid: S4UDashboard.Reactive.ReactiveCommand
+  name: ReactiveCommand
+  href: api/S4UDashboard.Reactive.ReactiveCommand.html
+  commentId: T:S4UDashboard.Reactive.ReactiveCommand
+  fullName: S4UDashboard.Reactive.ReactiveCommand
+  nameWithType: ReactiveCommand
+- uid: S4UDashboard.Reactive.ReactiveCommand.#ctor(System.Func{System.Boolean},System.Action{System.Object})
+  name: ReactiveCommand(Func<bool>, Action<object?>)
+  href: api/S4UDashboard.Reactive.ReactiveCommand.html#S4UDashboard_Reactive_ReactiveCommand__ctor_System_Func_System_Boolean__System_Action_System_Object__
+  commentId: M:S4UDashboard.Reactive.ReactiveCommand.#ctor(System.Func{System.Boolean},System.Action{System.Object})
+  name.vb: New(Func(Of Boolean), Action(Of Object))
+  fullName: S4UDashboard.Reactive.ReactiveCommand.ReactiveCommand(System.Func<bool>, System.Action<object?>)
+  fullName.vb: S4UDashboard.Reactive.ReactiveCommand.New(System.Func(Of Boolean), System.Action(Of Object))
+  nameWithType: ReactiveCommand.ReactiveCommand(Func<bool>, Action<object?>)
+  nameWithType.vb: ReactiveCommand.New(Func(Of Boolean), Action(Of Object))
+- uid: S4UDashboard.Reactive.ReactiveCommand.#ctor(System.Func{System.Boolean},System.Func{System.Object,System.Threading.Tasks.Task})
+  name: ReactiveCommand(Func<bool>, Func<object?, Task>)
+  href: api/S4UDashboard.Reactive.ReactiveCommand.html#S4UDashboard_Reactive_ReactiveCommand__ctor_System_Func_System_Boolean__System_Func_System_Object_System_Threading_Tasks_Task__
+  commentId: M:S4UDashboard.Reactive.ReactiveCommand.#ctor(System.Func{System.Boolean},System.Func{System.Object,System.Threading.Tasks.Task})
+  name.vb: New(Func(Of Boolean), Func(Of Object, Task))
+  fullName: S4UDashboard.Reactive.ReactiveCommand.ReactiveCommand(System.Func<bool>, System.Func<object?, System.Threading.Tasks.Task>)
+  fullName.vb: S4UDashboard.Reactive.ReactiveCommand.New(System.Func(Of Boolean), System.Func(Of Object, System.Threading.Tasks.Task))
+  nameWithType: ReactiveCommand.ReactiveCommand(Func<bool>, Func<object?, Task>)
+  nameWithType.vb: ReactiveCommand.New(Func(Of Boolean), Func(Of Object, Task))
+- uid: S4UDashboard.Reactive.ReactiveCommand.#ctor*
+  name: ReactiveCommand
+  href: api/S4UDashboard.Reactive.ReactiveCommand.html#S4UDashboard_Reactive_ReactiveCommand__ctor_
+  commentId: Overload:S4UDashboard.Reactive.ReactiveCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.Reactive.ReactiveCommand.ReactiveCommand
+  fullName.vb: S4UDashboard.Reactive.ReactiveCommand.New
+  nameWithType: ReactiveCommand.ReactiveCommand
+  nameWithType.vb: ReactiveCommand.New
+- uid: S4UDashboard.Reactive.ReactiveCommand.CanExecute(System.Object)
+  name: CanExecute(object?)
+  href: api/S4UDashboard.Reactive.ReactiveCommand.html#S4UDashboard_Reactive_ReactiveCommand_CanExecute_System_Object_
+  commentId: M:S4UDashboard.Reactive.ReactiveCommand.CanExecute(System.Object)
+  name.vb: CanExecute(Object)
+  fullName: S4UDashboard.Reactive.ReactiveCommand.CanExecute(object?)
+  fullName.vb: S4UDashboard.Reactive.ReactiveCommand.CanExecute(Object)
+  nameWithType: ReactiveCommand.CanExecute(object?)
+  nameWithType.vb: ReactiveCommand.CanExecute(Object)
+- uid: S4UDashboard.Reactive.ReactiveCommand.CanExecute*
+  name: CanExecute
+  href: api/S4UDashboard.Reactive.ReactiveCommand.html#S4UDashboard_Reactive_ReactiveCommand_CanExecute_
+  commentId: Overload:S4UDashboard.Reactive.ReactiveCommand.CanExecute
+  isSpec: "True"
+  fullName: S4UDashboard.Reactive.ReactiveCommand.CanExecute
+  nameWithType: ReactiveCommand.CanExecute
+- uid: S4UDashboard.Reactive.ReactiveCommand.CanExecuteChanged
+  name: CanExecuteChanged
+  href: api/S4UDashboard.Reactive.ReactiveCommand.html#S4UDashboard_Reactive_ReactiveCommand_CanExecuteChanged
+  commentId: E:S4UDashboard.Reactive.ReactiveCommand.CanExecuteChanged
+  fullName: S4UDashboard.Reactive.ReactiveCommand.CanExecuteChanged
+  nameWithType: ReactiveCommand.CanExecuteChanged
+- uid: S4UDashboard.Reactive.ReactiveCommand.Execute(System.Object)
+  name: Execute(object?)
+  href: api/S4UDashboard.Reactive.ReactiveCommand.html#S4UDashboard_Reactive_ReactiveCommand_Execute_System_Object_
+  commentId: M:S4UDashboard.Reactive.ReactiveCommand.Execute(System.Object)
+  name.vb: Execute(Object)
+  fullName: S4UDashboard.Reactive.ReactiveCommand.Execute(object?)
+  fullName.vb: S4UDashboard.Reactive.ReactiveCommand.Execute(Object)
+  nameWithType: ReactiveCommand.Execute(object?)
+  nameWithType.vb: ReactiveCommand.Execute(Object)
+- uid: S4UDashboard.Reactive.ReactiveCommand.Execute*
+  name: Execute
+  href: api/S4UDashboard.Reactive.ReactiveCommand.html#S4UDashboard_Reactive_ReactiveCommand_Execute_
+  commentId: Overload:S4UDashboard.Reactive.ReactiveCommand.Execute
+  isSpec: "True"
+  fullName: S4UDashboard.Reactive.ReactiveCommand.Execute
+  nameWithType: ReactiveCommand.Execute
+- uid: S4UDashboard.ServiceProvider
+  name: ServiceProvider
+  href: api/S4UDashboard.ServiceProvider.html
+  commentId: T:S4UDashboard.ServiceProvider
+  fullName: S4UDashboard.ServiceProvider
+  nameWithType: ServiceProvider
+- uid: S4UDashboard.ServiceProvider.AddService*
+  name: AddService
+  href: api/S4UDashboard.ServiceProvider.html#S4UDashboard_ServiceProvider_AddService_
+  commentId: Overload:S4UDashboard.ServiceProvider.AddService
+  isSpec: "True"
+  fullName: S4UDashboard.ServiceProvider.AddService
+  nameWithType: ServiceProvider.AddService
+- uid: S4UDashboard.ServiceProvider.AddService``1(``0)
+  name: AddService<T>(T)
+  href: api/S4UDashboard.ServiceProvider.html#S4UDashboard_ServiceProvider_AddService__1___0_
+  commentId: M:S4UDashboard.ServiceProvider.AddService``1(``0)
+  name.vb: AddService(Of T)(T)
+  fullName: S4UDashboard.ServiceProvider.AddService<T>(T)
+  fullName.vb: S4UDashboard.ServiceProvider.AddService(Of T)(T)
+  nameWithType: ServiceProvider.AddService<T>(T)
+  nameWithType.vb: ServiceProvider.AddService(Of T)(T)
+- uid: S4UDashboard.ServiceProvider.ExpectService*
+  name: ExpectService
+  href: api/S4UDashboard.ServiceProvider.html#S4UDashboard_ServiceProvider_ExpectService_
+  commentId: Overload:S4UDashboard.ServiceProvider.ExpectService
+  isSpec: "True"
+  fullName: S4UDashboard.ServiceProvider.ExpectService
+  nameWithType: ServiceProvider.ExpectService
+- uid: S4UDashboard.ServiceProvider.ExpectService``1
+  name: ExpectService<T>()
+  href: api/S4UDashboard.ServiceProvider.html#S4UDashboard_ServiceProvider_ExpectService__1
+  commentId: M:S4UDashboard.ServiceProvider.ExpectService``1
+  name.vb: ExpectService(Of T)()
+  fullName: S4UDashboard.ServiceProvider.ExpectService<T>()
+  fullName.vb: S4UDashboard.ServiceProvider.ExpectService(Of T)()
+  nameWithType: ServiceProvider.ExpectService<T>()
+  nameWithType.vb: ServiceProvider.ExpectService(Of T)()
+- uid: S4UDashboard.ServiceProvider.GetService*
+  name: GetService
+  href: api/S4UDashboard.ServiceProvider.html#S4UDashboard_ServiceProvider_GetService_
+  commentId: Overload:S4UDashboard.ServiceProvider.GetService
+  isSpec: "True"
+  fullName: S4UDashboard.ServiceProvider.GetService
+  nameWithType: ServiceProvider.GetService
+- uid: S4UDashboard.ServiceProvider.GetService``1
+  name: GetService<T>()
+  href: api/S4UDashboard.ServiceProvider.html#S4UDashboard_ServiceProvider_GetService__1
+  commentId: M:S4UDashboard.ServiceProvider.GetService``1
+  name.vb: GetService(Of T)()
+  fullName: S4UDashboard.ServiceProvider.GetService<T>()
+  fullName.vb: S4UDashboard.ServiceProvider.GetService(Of T)()
+  nameWithType: ServiceProvider.GetService<T>()
+  nameWithType.vb: ServiceProvider.GetService(Of T)()
+- uid: S4UDashboard.ViewModels
+  name: S4UDashboard.ViewModels
+  href: api/S4UDashboard.ViewModels.html
+  commentId: N:S4UDashboard.ViewModels
+  fullName: S4UDashboard.ViewModels
+  nameWithType: S4UDashboard.ViewModels
+- uid: S4UDashboard.ViewModels.FileTabViewModel
+  name: FileTabViewModel
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html
+  commentId: T:S4UDashboard.ViewModels.FileTabViewModel
+  fullName: S4UDashboard.ViewModels.FileTabViewModel
+  nameWithType: FileTabViewModel
+- uid: S4UDashboard.ViewModels.FileTabViewModel.#ctor(S4UDashboard.Reactive.ReactiveCell{S4UDashboard.Model.DatasetModel},S4UDashboard.Model.ILocation)
+  name: FileTabViewModel(ReactiveCell<DatasetModel>, ILocation)
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel__ctor_S4UDashboard_Reactive_ReactiveCell_S4UDashboard_Model_DatasetModel__S4UDashboard_Model_ILocation_
+  commentId: M:S4UDashboard.ViewModels.FileTabViewModel.#ctor(S4UDashboard.Reactive.ReactiveCell{S4UDashboard.Model.DatasetModel},S4UDashboard.Model.ILocation)
+  name.vb: New(ReactiveCell(Of DatasetModel), ILocation)
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.FileTabViewModel(S4UDashboard.Reactive.ReactiveCell<S4UDashboard.Model.DatasetModel>, S4UDashboard.Model.ILocation)
+  fullName.vb: S4UDashboard.ViewModels.FileTabViewModel.New(S4UDashboard.Reactive.ReactiveCell(Of S4UDashboard.Model.DatasetModel), S4UDashboard.Model.ILocation)
+  nameWithType: FileTabViewModel.FileTabViewModel(ReactiveCell<DatasetModel>, ILocation)
+  nameWithType.vb: FileTabViewModel.New(ReactiveCell(Of DatasetModel), ILocation)
+- uid: S4UDashboard.ViewModels.FileTabViewModel.#ctor*
+  name: FileTabViewModel
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel__ctor_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.FileTabViewModel
+  fullName.vb: S4UDashboard.ViewModels.FileTabViewModel.New
+  nameWithType: FileTabViewModel.FileTabViewModel
+  nameWithType.vb: FileTabViewModel.New
+- uid: S4UDashboard.ViewModels.FileTabViewModel.ClearAnnotatedName
+  name: ClearAnnotatedName
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_ClearAnnotatedName
+  commentId: P:S4UDashboard.ViewModels.FileTabViewModel.ClearAnnotatedName
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.ClearAnnotatedName
+  nameWithType: FileTabViewModel.ClearAnnotatedName
+- uid: S4UDashboard.ViewModels.FileTabViewModel.ClearAnnotatedName*
+  name: ClearAnnotatedName
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_ClearAnnotatedName_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.ClearAnnotatedName
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.ClearAnnotatedName
+  nameWithType: FileTabViewModel.ClearAnnotatedName
+- uid: S4UDashboard.ViewModels.FileTabViewModel.Dataset
+  name: Dataset
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_Dataset
+  commentId: P:S4UDashboard.ViewModels.FileTabViewModel.Dataset
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.Dataset
+  nameWithType: FileTabViewModel.Dataset
+- uid: S4UDashboard.ViewModels.FileTabViewModel.Dataset*
+  name: Dataset
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_Dataset_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.Dataset
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.Dataset
+  nameWithType: FileTabViewModel.Dataset
+- uid: S4UDashboard.ViewModels.FileTabViewModel.Dirty
+  name: Dirty
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_Dirty
+  commentId: P:S4UDashboard.ViewModels.FileTabViewModel.Dirty
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.Dirty
+  nameWithType: FileTabViewModel.Dirty
+- uid: S4UDashboard.ViewModels.FileTabViewModel.Dirty*
+  name: Dirty
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_Dirty_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.Dirty
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.Dirty
+  nameWithType: FileTabViewModel.Dirty
+- uid: S4UDashboard.ViewModels.FileTabViewModel.FromLocation(S4UDashboard.Model.ILocation)
+  name: FromLocation(ILocation)
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_FromLocation_S4UDashboard_Model_ILocation_
+  commentId: M:S4UDashboard.ViewModels.FileTabViewModel.FromLocation(S4UDashboard.Model.ILocation)
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.FromLocation(S4UDashboard.Model.ILocation)
+  nameWithType: FileTabViewModel.FromLocation(ILocation)
+- uid: S4UDashboard.ViewModels.FileTabViewModel.FromLocation*
+  name: FromLocation
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_FromLocation_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.FromLocation
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.FromLocation
+  nameWithType: FileTabViewModel.FromLocation
+- uid: S4UDashboard.ViewModels.FileTabViewModel.GridSource
+  name: GridSource
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_GridSource
+  commentId: P:S4UDashboard.ViewModels.FileTabViewModel.GridSource
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.GridSource
+  nameWithType: FileTabViewModel.GridSource
+- uid: S4UDashboard.ViewModels.FileTabViewModel.GridSource*
+  name: GridSource
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_GridSource_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.GridSource
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.GridSource
+  nameWithType: FileTabViewModel.GridSource
+- uid: S4UDashboard.ViewModels.FileTabViewModel.Header
+  name: Header
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_Header
+  commentId: P:S4UDashboard.ViewModels.FileTabViewModel.Header
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.Header
+  nameWithType: FileTabViewModel.Header
+- uid: S4UDashboard.ViewModels.FileTabViewModel.Header*
+  name: Header
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_Header_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.Header
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.Header
+  nameWithType: FileTabViewModel.Header
+- uid: S4UDashboard.ViewModels.FileTabViewModel.Location
+  name: Location
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_Location
+  commentId: P:S4UDashboard.ViewModels.FileTabViewModel.Location
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.Location
+  nameWithType: FileTabViewModel.Location
+- uid: S4UDashboard.ViewModels.FileTabViewModel.Location*
+  name: Location
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_Location_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.Location
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.Location
+  nameWithType: FileTabViewModel.Location
+- uid: S4UDashboard.ViewModels.FileTabViewModel.LowerField
+  name: LowerField
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_LowerField
+  commentId: P:S4UDashboard.ViewModels.FileTabViewModel.LowerField
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.LowerField
+  nameWithType: FileTabViewModel.LowerField
+- uid: S4UDashboard.ViewModels.FileTabViewModel.LowerField*
+  name: LowerField
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_LowerField_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.LowerField
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.LowerField
+  nameWithType: FileTabViewModel.LowerField
+- uid: S4UDashboard.ViewModels.FileTabViewModel.NameField
+  name: NameField
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_NameField
+  commentId: P:S4UDashboard.ViewModels.FileTabViewModel.NameField
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.NameField
+  nameWithType: FileTabViewModel.NameField
+- uid: S4UDashboard.ViewModels.FileTabViewModel.NameField*
+  name: NameField
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_NameField_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.NameField
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.NameField
+  nameWithType: FileTabViewModel.NameField
+- uid: S4UDashboard.ViewModels.FileTabViewModel.SDSFileType
+  name: SDSFileType
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_SDSFileType
+  commentId: F:S4UDashboard.ViewModels.FileTabViewModel.SDSFileType
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.SDSFileType
+  nameWithType: FileTabViewModel.SDSFileType
+- uid: S4UDashboard.ViewModels.FileTabViewModel.SaveAs
+  name: SaveAs()
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_SaveAs
+  commentId: M:S4UDashboard.ViewModels.FileTabViewModel.SaveAs
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.SaveAs()
+  nameWithType: FileTabViewModel.SaveAs()
+- uid: S4UDashboard.ViewModels.FileTabViewModel.SaveAs*
+  name: SaveAs
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_SaveAs_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.SaveAs
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.SaveAs
+  nameWithType: FileTabViewModel.SaveAs
+- uid: S4UDashboard.ViewModels.FileTabViewModel.SaveCurrent
+  name: SaveCurrent()
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_SaveCurrent
+  commentId: M:S4UDashboard.ViewModels.FileTabViewModel.SaveCurrent
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.SaveCurrent()
+  nameWithType: FileTabViewModel.SaveCurrent()
+- uid: S4UDashboard.ViewModels.FileTabViewModel.SaveCurrent*
+  name: SaveCurrent
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_SaveCurrent_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.SaveCurrent
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.SaveCurrent
+  nameWithType: FileTabViewModel.SaveCurrent
+- uid: S4UDashboard.ViewModels.FileTabViewModel.UpdateAnnotatedName
+  name: UpdateAnnotatedName
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_UpdateAnnotatedName
+  commentId: P:S4UDashboard.ViewModels.FileTabViewModel.UpdateAnnotatedName
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.UpdateAnnotatedName
+  nameWithType: FileTabViewModel.UpdateAnnotatedName
+- uid: S4UDashboard.ViewModels.FileTabViewModel.UpdateAnnotatedName*
+  name: UpdateAnnotatedName
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_UpdateAnnotatedName_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.UpdateAnnotatedName
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.UpdateAnnotatedName
+  nameWithType: FileTabViewModel.UpdateAnnotatedName
+- uid: S4UDashboard.ViewModels.FileTabViewModel.UpperField
+  name: UpperField
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_UpperField
+  commentId: P:S4UDashboard.ViewModels.FileTabViewModel.UpperField
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.UpperField
+  nameWithType: FileTabViewModel.UpperField
+- uid: S4UDashboard.ViewModels.FileTabViewModel.UpperField*
+  name: UpperField
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_UpperField_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.UpperField
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.UpperField
+  nameWithType: FileTabViewModel.UpperField
+- uid: S4UDashboard.ViewModels.FileTabViewModel.VisualiseCells
+  name: VisualiseCells
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_VisualiseCells
+  commentId: P:S4UDashboard.ViewModels.FileTabViewModel.VisualiseCells
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.VisualiseCells
+  nameWithType: FileTabViewModel.VisualiseCells
+- uid: S4UDashboard.ViewModels.FileTabViewModel.VisualiseCells*
+  name: VisualiseCells
+  href: api/S4UDashboard.ViewModels.FileTabViewModel.html#S4UDashboard_ViewModels_FileTabViewModel_VisualiseCells_
+  commentId: Overload:S4UDashboard.ViewModels.FileTabViewModel.VisualiseCells
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.FileTabViewModel.VisualiseCells
+  nameWithType: FileTabViewModel.VisualiseCells
+- uid: S4UDashboard.ViewModels.MainViewModel
+  name: MainViewModel
+  href: api/S4UDashboard.ViewModels.MainViewModel.html
+  commentId: T:S4UDashboard.ViewModels.MainViewModel
+  fullName: S4UDashboard.ViewModels.MainViewModel
+  nameWithType: MainViewModel
+- uid: S4UDashboard.ViewModels.MainViewModel.#ctor
+  name: MainViewModel()
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel__ctor
+  commentId: M:S4UDashboard.ViewModels.MainViewModel.#ctor
+  name.vb: New()
+  fullName: S4UDashboard.ViewModels.MainViewModel.MainViewModel()
+  fullName.vb: S4UDashboard.ViewModels.MainViewModel.New()
+  nameWithType: MainViewModel.MainViewModel()
+  nameWithType.vb: MainViewModel.New()
+- uid: S4UDashboard.ViewModels.MainViewModel.#ctor*
+  name: MainViewModel
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel__ctor_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.ViewModels.MainViewModel.MainViewModel
+  fullName.vb: S4UDashboard.ViewModels.MainViewModel.New
+  nameWithType: MainViewModel.MainViewModel
+  nameWithType.vb: MainViewModel.New
+- uid: S4UDashboard.ViewModels.MainViewModel.AboutAlert
+  name: AboutAlert
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_AboutAlert
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.AboutAlert
+  fullName: S4UDashboard.ViewModels.MainViewModel.AboutAlert
+  nameWithType: MainViewModel.AboutAlert
+- uid: S4UDashboard.ViewModels.MainViewModel.AboutAlert*
+  name: AboutAlert
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_AboutAlert_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.AboutAlert
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.AboutAlert
+  nameWithType: MainViewModel.AboutAlert
+- uid: S4UDashboard.ViewModels.MainViewModel.CloseSelectedTab
+  name: CloseSelectedTab
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_CloseSelectedTab
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.CloseSelectedTab
+  fullName: S4UDashboard.ViewModels.MainViewModel.CloseSelectedTab
+  nameWithType: MainViewModel.CloseSelectedTab
+- uid: S4UDashboard.ViewModels.MainViewModel.CloseSelectedTab*
+  name: CloseSelectedTab
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_CloseSelectedTab_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.CloseSelectedTab
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.CloseSelectedTab
+  nameWithType: MainViewModel.CloseSelectedTab
+- uid: S4UDashboard.ViewModels.MainViewModel.CloseTabCommand
+  name: CloseTabCommand
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_CloseTabCommand
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.CloseTabCommand
+  fullName: S4UDashboard.ViewModels.MainViewModel.CloseTabCommand
+  nameWithType: MainViewModel.CloseTabCommand
+- uid: S4UDashboard.ViewModels.MainViewModel.CloseTabCommand*
+  name: CloseTabCommand
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_CloseTabCommand_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.CloseTabCommand
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.CloseTabCommand
+  nameWithType: MainViewModel.CloseTabCommand
+- uid: S4UDashboard.ViewModels.MainViewModel.GenerateSample
+  name: GenerateSample()
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_GenerateSample
+  commentId: M:S4UDashboard.ViewModels.MainViewModel.GenerateSample
+  fullName: S4UDashboard.ViewModels.MainViewModel.GenerateSample()
+  nameWithType: MainViewModel.GenerateSample()
+- uid: S4UDashboard.ViewModels.MainViewModel.GenerateSample*
+  name: GenerateSample
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_GenerateSample_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.GenerateSample
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.GenerateSample
+  nameWithType: MainViewModel.GenerateSample
+- uid: S4UDashboard.ViewModels.MainViewModel.GoNextTab
+  name: GoNextTab
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_GoNextTab
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.GoNextTab
+  fullName: S4UDashboard.ViewModels.MainViewModel.GoNextTab
+  nameWithType: MainViewModel.GoNextTab
+- uid: S4UDashboard.ViewModels.MainViewModel.GoNextTab*
+  name: GoNextTab
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_GoNextTab_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.GoNextTab
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.GoNextTab
+  nameWithType: MainViewModel.GoNextTab
+- uid: S4UDashboard.ViewModels.MainViewModel.GoPrevTab
+  name: GoPrevTab
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_GoPrevTab
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.GoPrevTab
+  fullName: S4UDashboard.ViewModels.MainViewModel.GoPrevTab
+  nameWithType: MainViewModel.GoPrevTab
+- uid: S4UDashboard.ViewModels.MainViewModel.GoPrevTab*
+  name: GoPrevTab
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_GoPrevTab_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.GoPrevTab
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.GoPrevTab
+  nameWithType: MainViewModel.GoPrevTab
+- uid: S4UDashboard.ViewModels.MainViewModel.OpenFileDialog
+  name: OpenFileDialog()
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_OpenFileDialog
+  commentId: M:S4UDashboard.ViewModels.MainViewModel.OpenFileDialog
+  fullName: S4UDashboard.ViewModels.MainViewModel.OpenFileDialog()
+  nameWithType: MainViewModel.OpenFileDialog()
+- uid: S4UDashboard.ViewModels.MainViewModel.OpenFileDialog*
+  name: OpenFileDialog
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_OpenFileDialog_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.OpenFileDialog
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.OpenFileDialog
+  nameWithType: MainViewModel.OpenFileDialog
+- uid: S4UDashboard.ViewModels.MainViewModel.OpenWiki
+  name: OpenWiki
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_OpenWiki
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.OpenWiki
+  fullName: S4UDashboard.ViewModels.MainViewModel.OpenWiki
+  nameWithType: MainViewModel.OpenWiki
+- uid: S4UDashboard.ViewModels.MainViewModel.OpenWiki*
+  name: OpenWiki
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_OpenWiki_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.OpenWiki
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.OpenWiki
+  nameWithType: MainViewModel.OpenWiki
+- uid: S4UDashboard.ViewModels.MainViewModel.QuitApp
+  name: QuitApp
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_QuitApp
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.QuitApp
+  fullName: S4UDashboard.ViewModels.MainViewModel.QuitApp
+  nameWithType: MainViewModel.QuitApp
+- uid: S4UDashboard.ViewModels.MainViewModel.QuitApp*
+  name: QuitApp
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_QuitApp_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.QuitApp
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.QuitApp
+  nameWithType: MainViewModel.QuitApp
+- uid: S4UDashboard.ViewModels.MainViewModel.SaveAll
+  name: SaveAll
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SaveAll
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.SaveAll
+  fullName: S4UDashboard.ViewModels.MainViewModel.SaveAll
+  nameWithType: MainViewModel.SaveAll
+- uid: S4UDashboard.ViewModels.MainViewModel.SaveAll*
+  name: SaveAll
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SaveAll_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.SaveAll
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.SaveAll
+  nameWithType: MainViewModel.SaveAll
+- uid: S4UDashboard.ViewModels.MainViewModel.SaveAsDialog
+  name: SaveAsDialog
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SaveAsDialog
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.SaveAsDialog
+  fullName: S4UDashboard.ViewModels.MainViewModel.SaveAsDialog
+  nameWithType: MainViewModel.SaveAsDialog
+- uid: S4UDashboard.ViewModels.MainViewModel.SaveAsDialog*
+  name: SaveAsDialog
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SaveAsDialog_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.SaveAsDialog
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.SaveAsDialog
+  nameWithType: MainViewModel.SaveAsDialog
+- uid: S4UDashboard.ViewModels.MainViewModel.SaveCurrent
+  name: SaveCurrent
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SaveCurrent
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.SaveCurrent
+  fullName: S4UDashboard.ViewModels.MainViewModel.SaveCurrent
+  nameWithType: MainViewModel.SaveCurrent
+- uid: S4UDashboard.ViewModels.MainViewModel.SaveCurrent*
+  name: SaveCurrent
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SaveCurrent_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.SaveCurrent
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.SaveCurrent
+  nameWithType: MainViewModel.SaveCurrent
+- uid: S4UDashboard.ViewModels.MainViewModel.SearchTabs
+  name: SearchTabs
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SearchTabs
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.SearchTabs
+  fullName: S4UDashboard.ViewModels.MainViewModel.SearchTabs
+  nameWithType: MainViewModel.SearchTabs
+- uid: S4UDashboard.ViewModels.MainViewModel.SearchTabs*
+  name: SearchTabs
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SearchTabs_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.SearchTabs
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.SearchTabs
+  nameWithType: MainViewModel.SearchTabs
+- uid: S4UDashboard.ViewModels.MainViewModel.SearchText
+  name: SearchText
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SearchText
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.SearchText
+  fullName: S4UDashboard.ViewModels.MainViewModel.SearchText
+  nameWithType: MainViewModel.SearchText
+- uid: S4UDashboard.ViewModels.MainViewModel.SearchText*
+  name: SearchText
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SearchText_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.SearchText
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.SearchText
+  nameWithType: MainViewModel.SearchText
+- uid: S4UDashboard.ViewModels.MainViewModel.SelectedTab
+  name: SelectedTab
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SelectedTab
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.SelectedTab
+  fullName: S4UDashboard.ViewModels.MainViewModel.SelectedTab
+  nameWithType: MainViewModel.SelectedTab
+- uid: S4UDashboard.ViewModels.MainViewModel.SelectedTab*
+  name: SelectedTab
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SelectedTab_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.SelectedTab
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.SelectedTab
+  nameWithType: MainViewModel.SelectedTab
+- uid: S4UDashboard.ViewModels.MainViewModel.SelectedTabIndex
+  name: SelectedTabIndex
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SelectedTabIndex
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.SelectedTabIndex
+  fullName: S4UDashboard.ViewModels.MainViewModel.SelectedTabIndex
+  nameWithType: MainViewModel.SelectedTabIndex
+- uid: S4UDashboard.ViewModels.MainViewModel.SelectedTabIndex*
+  name: SelectedTabIndex
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_SelectedTabIndex_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.SelectedTabIndex
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.SelectedTabIndex
+  nameWithType: MainViewModel.SelectedTabIndex
+- uid: S4UDashboard.ViewModels.MainViewModel.TabList
+  name: TabList
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_TabList
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.TabList
+  fullName: S4UDashboard.ViewModels.MainViewModel.TabList
+  nameWithType: MainViewModel.TabList
+- uid: S4UDashboard.ViewModels.MainViewModel.TabList*
+  name: TabList
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_TabList_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.TabList
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.TabList
+  nameWithType: MainViewModel.TabList
+- uid: S4UDashboard.ViewModels.MainViewModel.TabsAreSorted
+  name: TabsAreSorted
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_TabsAreSorted
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.TabsAreSorted
+  fullName: S4UDashboard.ViewModels.MainViewModel.TabsAreSorted
+  nameWithType: MainViewModel.TabsAreSorted
+- uid: S4UDashboard.ViewModels.MainViewModel.TabsAreSorted*
+  name: TabsAreSorted
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_TabsAreSorted_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.TabsAreSorted
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.TabsAreSorted
+  nameWithType: MainViewModel.TabsAreSorted
+- uid: S4UDashboard.ViewModels.MainViewModel.TabsSortMode
+  name: TabsSortMode
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_TabsSortMode
+  commentId: P:S4UDashboard.ViewModels.MainViewModel.TabsSortMode
+  fullName: S4UDashboard.ViewModels.MainViewModel.TabsSortMode
+  nameWithType: MainViewModel.TabsSortMode
+- uid: S4UDashboard.ViewModels.MainViewModel.TabsSortMode*
+  name: TabsSortMode
+  href: api/S4UDashboard.ViewModels.MainViewModel.html#S4UDashboard_ViewModels_MainViewModel_TabsSortMode_
+  commentId: Overload:S4UDashboard.ViewModels.MainViewModel.TabsSortMode
+  isSpec: "True"
+  fullName: S4UDashboard.ViewModels.MainViewModel.TabsSortMode
+  nameWithType: MainViewModel.TabsSortMode
+- uid: S4UDashboard.ViewModels.ViewModelBase
+  name: ViewModelBase
+  href: api/S4UDashboard.ViewModels.ViewModelBase.html
+  commentId: T:S4UDashboard.ViewModels.ViewModelBase
+  fullName: S4UDashboard.ViewModels.ViewModelBase
+  nameWithType: ViewModelBase
+- uid: S4UDashboard.Views
+  name: S4UDashboard.Views
+  href: api/S4UDashboard.Views.html
+  commentId: N:S4UDashboard.Views
+  fullName: S4UDashboard.Views
+  nameWithType: S4UDashboard.Views
+- uid: S4UDashboard.Views.FileTabView
+  name: FileTabView
+  href: api/S4UDashboard.Views.FileTabView.html
+  commentId: T:S4UDashboard.Views.FileTabView
+  fullName: S4UDashboard.Views.FileTabView
+  nameWithType: FileTabView
+- uid: S4UDashboard.Views.FileTabView.#ctor
+  name: FileTabView()
+  href: api/S4UDashboard.Views.FileTabView.html#S4UDashboard_Views_FileTabView__ctor
+  commentId: M:S4UDashboard.Views.FileTabView.#ctor
+  name.vb: New()
+  fullName: S4UDashboard.Views.FileTabView.FileTabView()
+  fullName.vb: S4UDashboard.Views.FileTabView.New()
+  nameWithType: FileTabView.FileTabView()
+  nameWithType.vb: FileTabView.New()
+- uid: S4UDashboard.Views.FileTabView.#ctor*
+  name: FileTabView
+  href: api/S4UDashboard.Views.FileTabView.html#S4UDashboard_Views_FileTabView__ctor_
+  commentId: Overload:S4UDashboard.Views.FileTabView.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.Views.FileTabView.FileTabView
+  fullName.vb: S4UDashboard.Views.FileTabView.New
+  nameWithType: FileTabView.FileTabView
+  nameWithType.vb: FileTabView.New
+- uid: S4UDashboard.Views.FileTabView.InitializeComponent(System.Boolean)
+  name: InitializeComponent(bool)
+  href: api/S4UDashboard.Views.FileTabView.html#S4UDashboard_Views_FileTabView_InitializeComponent_System_Boolean_
+  commentId: M:S4UDashboard.Views.FileTabView.InitializeComponent(System.Boolean)
+  name.vb: InitializeComponent(Boolean)
+  fullName: S4UDashboard.Views.FileTabView.InitializeComponent(bool)
+  fullName.vb: S4UDashboard.Views.FileTabView.InitializeComponent(Boolean)
+  nameWithType: FileTabView.InitializeComponent(bool)
+  nameWithType.vb: FileTabView.InitializeComponent(Boolean)
+- uid: S4UDashboard.Views.FileTabView.InitializeComponent*
+  name: InitializeComponent
+  href: api/S4UDashboard.Views.FileTabView.html#S4UDashboard_Views_FileTabView_InitializeComponent_
+  commentId: Overload:S4UDashboard.Views.FileTabView.InitializeComponent
+  isSpec: "True"
+  fullName: S4UDashboard.Views.FileTabView.InitializeComponent
+  nameWithType: FileTabView.InitializeComponent
+- uid: S4UDashboard.Views.MainView
+  name: MainView
+  href: api/S4UDashboard.Views.MainView.html
+  commentId: T:S4UDashboard.Views.MainView
+  fullName: S4UDashboard.Views.MainView
+  nameWithType: MainView
+- uid: S4UDashboard.Views.MainView.#ctor
+  name: MainView()
+  href: api/S4UDashboard.Views.MainView.html#S4UDashboard_Views_MainView__ctor
+  commentId: M:S4UDashboard.Views.MainView.#ctor
+  name.vb: New()
+  fullName: S4UDashboard.Views.MainView.MainView()
+  fullName.vb: S4UDashboard.Views.MainView.New()
+  nameWithType: MainView.MainView()
+  nameWithType.vb: MainView.New()
+- uid: S4UDashboard.Views.MainView.#ctor*
+  name: MainView
+  href: api/S4UDashboard.Views.MainView.html#S4UDashboard_Views_MainView__ctor_
+  commentId: Overload:S4UDashboard.Views.MainView.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.Views.MainView.MainView
+  fullName.vb: S4UDashboard.Views.MainView.New
+  nameWithType: MainView.MainView
+  nameWithType.vb: MainView.New
+- uid: S4UDashboard.Views.MainView.InitializeComponent(System.Boolean)
+  name: InitializeComponent(bool)
+  href: api/S4UDashboard.Views.MainView.html#S4UDashboard_Views_MainView_InitializeComponent_System_Boolean_
+  commentId: M:S4UDashboard.Views.MainView.InitializeComponent(System.Boolean)
+  name.vb: InitializeComponent(Boolean)
+  fullName: S4UDashboard.Views.MainView.InitializeComponent(bool)
+  fullName.vb: S4UDashboard.Views.MainView.InitializeComponent(Boolean)
+  nameWithType: MainView.InitializeComponent(bool)
+  nameWithType.vb: MainView.InitializeComponent(Boolean)
+- uid: S4UDashboard.Views.MainView.InitializeComponent*
+  name: InitializeComponent
+  href: api/S4UDashboard.Views.MainView.html#S4UDashboard_Views_MainView_InitializeComponent_
+  commentId: Overload:S4UDashboard.Views.MainView.InitializeComponent
+  isSpec: "True"
+  fullName: S4UDashboard.Views.MainView.InitializeComponent
+  nameWithType: MainView.InitializeComponent
+- uid: S4UDashboard.Views.MainWindow
+  name: MainWindow
+  href: api/S4UDashboard.Views.MainWindow.html
+  commentId: T:S4UDashboard.Views.MainWindow
+  fullName: S4UDashboard.Views.MainWindow
+  nameWithType: MainWindow
+- uid: S4UDashboard.Views.MainWindow.#ctor
+  name: MainWindow()
+  href: api/S4UDashboard.Views.MainWindow.html#S4UDashboard_Views_MainWindow__ctor
+  commentId: M:S4UDashboard.Views.MainWindow.#ctor
+  name.vb: New()
+  fullName: S4UDashboard.Views.MainWindow.MainWindow()
+  fullName.vb: S4UDashboard.Views.MainWindow.New()
+  nameWithType: MainWindow.MainWindow()
+  nameWithType.vb: MainWindow.New()
+- uid: S4UDashboard.Views.MainWindow.#ctor*
+  name: MainWindow
+  href: api/S4UDashboard.Views.MainWindow.html#S4UDashboard_Views_MainWindow__ctor_
+  commentId: Overload:S4UDashboard.Views.MainWindow.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: S4UDashboard.Views.MainWindow.MainWindow
+  fullName.vb: S4UDashboard.Views.MainWindow.New
+  nameWithType: MainWindow.MainWindow
+  nameWithType.vb: MainWindow.New
+- uid: S4UDashboard.Views.MainWindow.InitializeComponent(System.Boolean,System.Boolean)
+  name: InitializeComponent(bool, bool)
+  href: api/S4UDashboard.Views.MainWindow.html#S4UDashboard_Views_MainWindow_InitializeComponent_System_Boolean_System_Boolean_
+  commentId: M:S4UDashboard.Views.MainWindow.InitializeComponent(System.Boolean,System.Boolean)
+  name.vb: InitializeComponent(Boolean, Boolean)
+  fullName: S4UDashboard.Views.MainWindow.InitializeComponent(bool, bool)
+  fullName.vb: S4UDashboard.Views.MainWindow.InitializeComponent(Boolean, Boolean)
+  nameWithType: MainWindow.InitializeComponent(bool, bool)
+  nameWithType.vb: MainWindow.InitializeComponent(Boolean, Boolean)
+- uid: S4UDashboard.Views.MainWindow.InitializeComponent*
+  name: InitializeComponent
+  href: api/S4UDashboard.Views.MainWindow.html#S4UDashboard_Views_MainWindow_InitializeComponent_
+  commentId: Overload:S4UDashboard.Views.MainWindow.InitializeComponent
+  isSpec: "True"
+  fullName: S4UDashboard.Views.MainWindow.InitializeComponent
+  nameWithType: MainWindow.InitializeComponent
