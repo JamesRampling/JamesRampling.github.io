@@ -1,5 +1,5 @@
 {
-  "source_base_path": "C:/Users/30095774/Desktop/S4UDashboard/docs",
+  "source_base_path": "/home/sheogorath/src/csharp/s4ud/S4UDashboard/docs",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -560,11 +560,11 @@
       "type": "Toc",
       "source_relative_path": "api/toc.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/toc.html"
-        },
         ".json": {
           "relative_path": "api/toc.json"
+        },
+        ".html": {
+          "relative_path": "api/toc.html"
         }
       },
       "version": ""
@@ -590,37 +590,14 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "manual/introduction.md",
-      "output": {
-        ".html": {
-          "relative_path": "manual/introduction.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "manual/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "manual/toc.html"
-        },
-        ".json": {
-          "relative_path": "manual/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
-        ".html": {
-          "relative_path": "toc.html"
-        },
         ".json": {
           "relative_path": "toc.json"
+        },
+        ".html": {
+          "relative_path": "toc.html"
         }
       },
       "version": ""

@@ -196,12 +196,7 @@
   },
   "index.html": {
     "href": "index.html",
-    "title": "This is the HOMEPAGE. | Sensing4U Dashboard",
-    "summary": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
-  },
-  "manual/introduction.html": {
-    "href": "manual/introduction.html",
-    "title": "Sensing4U Dashboard | Sensing4U Dashboard",
-    "summary": "Sensing4U Dashboard Hello, World!"
+    "title": "Sensing4U Dashboard API Documentation | Sensing4U Dashboard",
+    "summary": "Sensing4U Dashboard API Documentation API documentation for Sensing4U Dashboard is available on this page. For the User Manual, please refer to the handover document available with the Blackboard submission."
   }
 }
